@@ -37,6 +37,7 @@
     {"id":{"name":"lvl5","path":"sprites/lvl5/lvl5.yy",},"order":5,},
     {"id":{"name":"BossSprite","path":"sprites/BossSprite/BossSprite.yy",},"order":12,},
     {"id":{"name":"TempPlayer_Red","path":"sprites/TempPlayer_Red/TempPlayer_Red.yy",},"order":4,},
+    {"id":{"name":"Pause","path":"objects/Pause/Pause.yy",},"order":15,},
     {"id":{"name":"TempPlayer_Blue","path":"sprites/TempPlayer_Blue/TempPlayer_Blue.yy",},"order":5,},
     {"id":{"name":"BossProjectile","path":"objects/BossProjectile/BossProjectile.yy",},"order":7,},
     {"id":{"name":"lvl_8_button","path":"objects/lvl_8_button/lvl_8_button.yy",},"order":8,},
