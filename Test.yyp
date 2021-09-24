@@ -6,6 +6,7 @@
     {"id":{"name":"NeuronBackground","path":"sprites/NeuronBackground/NeuronBackground.yy",},"order":9,},
     {"id":{"name":"lvl_4_button","path":"objects/lvl_4_button/lvl_4_button.yy",},"order":4,},
     {"id":{"name":"Sprite14","path":"sprites/Sprite14/Sprite14.yy",},"order":16,},
+    {"id":{"name":"SelectLevelButton","path":"sounds/SelectLevelButton/SelectLevelButton.yy",},"order":0,},
     {"id":{"name":"lvl_3_button","path":"objects/lvl_3_button/lvl_3_button.yy",},"order":3,},
     {"id":{"name":"lvl7","path":"sprites/lvl7/lvl7.yy",},"order":7,},
     {"id":{"name":"Stars","path":"sprites/Stars/Stars.yy",},"order":19,},
@@ -97,6 +98,7 @@
     {"folderPath":"folders/Sprites/LevelSelect.yy","order":11,"resourceVersion":"1.0","name":"LevelSelect","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites/LevelSelect/levelButtons.yy","order":1,"resourceVersion":"1.0","name":"levelButtons","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Objects/Menu Objects.yy","order":14,"resourceVersion":"1.0","name":"Menu Objects","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Sounds/Select Level Button.yy","order":2,"resourceVersion":"1.0","name":"Select Level Button","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},
