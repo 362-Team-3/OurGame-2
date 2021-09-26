@@ -15,4 +15,50 @@ if pause == true
 		alarm[0]++;
 		alarm[1]++;
     }
+
+
+
+// Handles movement of menu
+if(pauseMenuControl)
+{
+	//handles interaction if they press up
+	if( keyboard_check_pressed(vk_up))
+	{
+		pauseMenuCursor++;
+		if (pauseMenuCursor >= pauseMenuItems)
+		{
+			pauseMenuCursor = 0;
+		}
+	}
+	
+	//handles interaction if they press up
+	if( keyboard_check_pressed(vk_down))
+	{
+		pauseMenuCursor--;
+		if (pauseMenuCursor < 0 )
+		{
+			pauseMenuCursor = pauseMenuItems - 1;
+		}
+	}
+	
+
+	//handles interaction if they press enter
+	if(keyboard_check_pressed(vk_enter))
+	{
+		pauseMenuCommit = pauseMenuCursor;
+		pauseMenuControl = false;
+	}
+	
+}
+
+//Handles where menu goes based on which option was selected
+if(pauseMenuCommit != -1)
+{
+	switch(pauseMenuCommit)
+	{
+		case 0: room_goto(LevelSelect); break;
+		case 1: room_goto(Room1); break;
+		default: room_goto(Menu); break;
+	}
+}
 }
