@@ -17,7 +17,7 @@ if (mouse_check_button_pressed(mb_left) && ShootTimer <= 0) {
 }
 
 if (Health <= 0){
-	instance_destroy();
+	room_goto(Menu);
 }
 
 //timer--;
