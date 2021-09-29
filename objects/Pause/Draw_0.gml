@@ -20,13 +20,7 @@ if pause == true
 		draw_set_halign(fa_center);
 		draw_text_transformed_colour(room_width / 2, room_height / 2, "PAUSED", 3, 3, 0, c_white, c_white, c_yellow, c_yellow, 1);
 		
-		//draw_text_transformed_colour(room_width / 2, room_height / 2 + 150, "UNPAUSE", 1, 1, 0, c_white, c_white, c_white, c_white, 1);
-		//draw_text_transformed_colour(room_width / 2, room_height / 2 + 225, "EXIT", 1, 1, 0, c_white, c_white, c_white, c_white, 1);
-		draw_set_halign(fa_left);
-		
-
-    }
-			//Creates the Pause menu GUI 
+		//Creates the Pause menu GUI 
 		//Positions text
 		draw_set_font(titleFont);
 		draw_set_halign(fa_center);
@@ -57,5 +51,11 @@ if pause == true
 			draw_set_color(col);
 			draw_text(xx,yy,txt);
 		}
+		
+		draw_set_halign(fa_left);
+		
+
+    }
+
 }
 
