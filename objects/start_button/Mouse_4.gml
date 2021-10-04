@@ -3,7 +3,7 @@ if (lvl_1_button.selected) {
 }
 
 if (lvl_2_button.selected) {
-	//room_goto()
+	room_goto(TestSideScrollingLevel)
 }
 
 if (lvl_3_button.selected) {
