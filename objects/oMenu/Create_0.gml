@@ -6,7 +6,7 @@ guiHeight = display_get_gui_height();
 guiMargin = 32;
 
 //X and Y coords of menu
-menuX = guiWidth;
+menuX = guiWidth + 200;
 menuY = guiHeight - guiMargin;
 menuLocation = guiWidth - guiMargin;
 

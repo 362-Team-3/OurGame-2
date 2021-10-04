@@ -22,7 +22,7 @@ for(i = 0; i < menuItems; i++)
 	}
 	else
 	{
-		var col = c_gray;
+		var col = c_yellow;
 	}
 	
 	var xx = menuX;

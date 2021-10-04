@@ -7,15 +7,15 @@
   "edgeFiltering": false,
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
-  "bbox_left": 44,
-  "bbox_right": 243,
-  "bbox_top": 7,
-  "bbox_bottom": 77,
+  "bbox_left": 0,
+  "bbox_right": 930,
+  "bbox_top": 0,
+  "bbox_bottom": 64,
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 272,
-  "height": 160,
+  "width": 931,
+  "height": 65,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"e728ea3b-74e3-4130-b788-76a8ae2b7d49","path":"sprites/dualPlanets/dualPlanets.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"e728ea3b-74e3-4130-b788-76a8ae2b7d49","path":"sprites/dualPlanets/dualPlanets.yy",},"LayerId":{"name":"9e1ea30f-533a-45db-bcc2-65800af7a98d","path":"sprites/dualPlanets/dualPlanets.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"dualPlanets","path":"sprites/dualPlanets/dualPlanets.yy",},"resourceVersion":"1.0","name":"e728ea3b-74e3-4130-b788-76a8ae2b7d49","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"065d15e8-0ce0-4b7d-be28-b9a3c5bfccee","path":"sprites/gameTitle/gameTitle.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"065d15e8-0ce0-4b7d-be28-b9a3c5bfccee","path":"sprites/gameTitle/gameTitle.yy",},"LayerId":{"name":"7ef2be2d-9b24-49ed-9bf4-b37b7195b880","path":"sprites/gameTitle/gameTitle.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"gameTitle","path":"sprites/gameTitle/gameTitle.yy",},"resourceVersion":"1.0","name":"065d15e8-0ce0-4b7d-be28-b9a3c5bfccee","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"dualPlanets","path":"sprites/dualPlanets/dualPlanets.yy",},
+    "spriteId": {"name":"gameTitle","path":"sprites/gameTitle/gameTitle.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"ab9a83e9-1ac9-4b25-9416-215c2366f7b6","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"e728ea3b-74e3-4130-b788-76a8ae2b7d49","path":"sprites/dualPlanets/dualPlanets.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"473a3901-fb2c-43c1-954b-4d5386bffcd4","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"065d15e8-0ce0-4b7d-be28-b9a3c5bfccee","path":"sprites/gameTitle/gameTitle.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -58,14 +58,14 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"dualPlanets","path":"sprites/dualPlanets/dualPlanets.yy",},
+    "parent": {"name":"gameTitle","path":"sprites/gameTitle/gameTitle.yy",},
     "resourceVersion": "1.3",
-    "name": "dualPlanets",
+    "name": "gameTitle",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"9e1ea30f-533a-45db-bcc2-65800af7a98d","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"7ef2be2d-9b24-49ed-9bf4-b37b7195b880","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {
@@ -73,7 +73,7 @@
     "path": "folders/Sprites/Menu.yy",
   },
   "resourceVersion": "1.0",
-  "name": "dualPlanets",
+  "name": "gameTitle",
   "tags": [],
   "resourceType": "GMSprite",
 }

@@ -1,5 +1,8 @@
 // Handles movement of menu
 
+//text slides in from RHS
+menuX += (menuLocation - menuX) / menuSpeed;
+
 if(menuControl)
 {
 	//handles interaction if they press up
@@ -26,6 +29,7 @@ if(menuControl)
 	//handles interaction if they press enter
 	if(keyboard_check_pressed(vk_enter))
 	{
+		menuLocation = guiWidth+200;
 		menuCommit = menuCursor;
 		menuControl = false;
 	}
