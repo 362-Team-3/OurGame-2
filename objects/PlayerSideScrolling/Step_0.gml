@@ -12,11 +12,12 @@ image_angle = point_direction(x,y,x,y);
 
 ShootTimer--;
 if (mouse_check_button_pressed(mb_left) && ShootTimer <= 0) {
-	instance_create_layer(x,y,layer,Player_Projectile);
+	instance_create_layer(x,y,layer,Player_Projectile_SideScrolling);
 	ShootTimer = 15;	
 }
 
 if (Health <= 0){
+	audio_stop_all()
 	room_goto(Menu);
 }
 

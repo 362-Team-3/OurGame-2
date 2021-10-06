@@ -14,7 +14,6 @@
   ],
   "layers": [
     {"instances":[
-        {"properties":[],"isDnd":false,"objectId":{"name":"Player","path":"objects/Player/Player.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.74999994,"scaleY":0.74999994,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":280.0,"y":520.0,"resourceVersion":"1.0","name":"inst_2675C236","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"asteroidObj","path":"objects/asteroidObj/asteroidObj.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1440.0,"y":32.0,"resourceVersion":"1.0","name":"inst_5E628413","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"asteroidObj","path":"objects/asteroidObj/asteroidObj.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1728.0,"y":608.0,"resourceVersion":"1.0","name":"inst_CAA99A2","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"asteroidObj","path":"objects/asteroidObj/asteroidObj.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1920.0,"y":224.0,"resourceVersion":"1.0","name":"inst_30A70BBF","tags":[],"resourceType":"GMRInstance",},
@@ -77,6 +76,7 @@
         {"properties":[],"isDnd":false,"objectId":{"name":"asteroidObj","path":"objects/asteroidObj/asteroidObj.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":5376.0,"y":160.0,"resourceVersion":"1.0","name":"inst_EFBD7CC","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"asteroidObj","path":"objects/asteroidObj/asteroidObj.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":5472.0,"y":-160.0,"resourceVersion":"1.0","name":"inst_3D05573F","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"asteroidObj","path":"objects/asteroidObj/asteroidObj.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":5888.0,"y":544.0,"resourceVersion":"1.0","name":"inst_5EFF8F39","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"PlayerSideScrolling","path":"objects/PlayerSideScrolling/PlayerSideScrolling.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":96.0,"y":448.0,"resourceVersion":"1.0","name":"inst_35EF058","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances","tags":[],"resourceType":"GMRInstanceLayer",},
     {"spriteId":{"name":"SpaceBackground","path":"sprites/SpaceBackground/SpaceBackground.yy",},"colour":4294967295,"x":0,"y":0,"htiled":true,"vtiled":true,"hspeed":-1.0,"vspeed":0.0,"stretch":true,"animationFPS":30.0,"animationSpeedType":0,"userdefinedAnimFPS":false,"visible":true,"depth":100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Background","tags":[],"resourceType":"GMRBackgroundLayer",},
   ],
@@ -84,7 +84,6 @@
   "creationCodeFile": "",
   "inheritCode": false,
   "instanceCreationOrder": [
-    {"name":"inst_2675C236","path":"rooms/TestSideScrollingLevel/TestSideScrollingLevel.yy",},
     {"name":"inst_5E628413","path":"rooms/TestSideScrollingLevel/TestSideScrollingLevel.yy",},
     {"name":"inst_CAA99A2","path":"rooms/TestSideScrollingLevel/TestSideScrollingLevel.yy",},
     {"name":"inst_30A70BBF","path":"rooms/TestSideScrollingLevel/TestSideScrollingLevel.yy",},
@@ -147,6 +146,7 @@
     {"name":"inst_EFBD7CC","path":"rooms/TestSideScrollingLevel/TestSideScrollingLevel.yy",},
     {"name":"inst_3D05573F","path":"rooms/TestSideScrollingLevel/TestSideScrollingLevel.yy",},
     {"name":"inst_5EFF8F39","path":"rooms/TestSideScrollingLevel/TestSideScrollingLevel.yy",},
+    {"name":"inst_35EF058","path":"rooms/TestSideScrollingLevel/TestSideScrollingLevel.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,

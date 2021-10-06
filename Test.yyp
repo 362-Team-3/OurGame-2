@@ -8,6 +8,7 @@
     {"id":{"name":"upgradeShopButton","path":"objects/upgradeShopButton/upgradeShopButton.yy",},"order":12,},
     {"id":{"name":"lvl_4_button","path":"objects/lvl_4_button/lvl_4_button.yy",},"order":4,},
     {"id":{"name":"Sprite14","path":"sprites/Sprite14/Sprite14.yy",},"order":16,},
+    {"id":{"name":"PlayerSideScrolling","path":"objects/PlayerSideScrolling/PlayerSideScrolling.yy",},"order":0,},
     {"id":{"name":"SelectLevelButton","path":"sounds/SelectLevelButton/SelectLevelButton.yy",},"order":0,},
     {"id":{"name":"lvl_3_button","path":"objects/lvl_3_button/lvl_3_button.yy",},"order":3,},
     {"id":{"name":"asteroidExploding","path":"sounds/asteroidExploding/asteroidExploding.yy",},"order":0,},
@@ -55,6 +56,7 @@
     {"id":{"name":"BuyButton","path":"objects/BuyButton/BuyButton.yy",},"order":0,},
     {"id":{"name":"TempPlayer_Blue","path":"sprites/TempPlayer_Blue/TempPlayer_Blue.yy",},"order":5,},
     {"id":{"name":"BossProjectile","path":"objects/BossProjectile/BossProjectile.yy",},"order":7,},
+    {"id":{"name":"Player_Projectile_SideScrolling","path":"objects/Player_Projectile_SideScrolling/Player_Projectile_SideScrolling.yy",},"order":1,},
     {"id":{"name":"lvl_8_button","path":"objects/lvl_8_button/lvl_8_button.yy",},"order":8,},
     {"id":{"name":"gameTitle","path":"sprites/gameTitle/gameTitle.yy",},"order":3,},
     {"id":{"name":"Player_Projectile","path":"objects/Player_Projectile/Player_Projectile.yy",},"order":1,},
@@ -129,6 +131,7 @@
     {"folderPath":"folders/Sprites/Menu.yy","order":22,"resourceVersion":"1.0","name":"Menu","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Objects/Miscellaneous Objects.yy","order":17,"resourceVersion":"1.0","name":"Miscellaneous Objects","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sounds/SFX.yy","order":3,"resourceVersion":"1.0","name":"SFX","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Objects/PlayerSideScrolling.yy","order":19,"resourceVersion":"1.0","name":"PlayerSideScrolling","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},
