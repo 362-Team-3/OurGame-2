@@ -1,23 +1,19 @@
 /// @description Insert description here
-// You can write your code in this editor
-if (keyboard_check(ord("W")) && y > 0) y -= 5;
-if (keyboard_check(ord("S")) && y < 768) y += 5;
 
-if (keyboard_check(ord("D")) && x < 1366) x += 5;
-if (keyboard_check(ord("A")) && x > 0) x -= 5;
-
-
-
-image_angle = point_direction(x,y,x,y);
+if (instance_exists(PlayerSideScrolling)) {
+	image_angle = point_direction(x,y,PlayerSideScrolling.x,PlayerSideScrolling.y);
+	motion_add(point_direction(x,y,PlayerSideScrolling.x,PlayerSideScrolling.y),0.4);
+	if (speed > .5) speed = .5;
+}
 
 ShootTimer--;
-if (mouse_check_button_pressed(mb_left) && ShootTimer <= 0) {
-	instance_create_layer(x,y,layer,Player_Projectile);
-	ShootTimer = 15;	
+if (ShootTimer <= 0) {
+	instance_create_layer(x,y,layer,EnemyTestProjectile);
+	ShootTimer = 1;	
 }
 
 if (Health <= 0){
-	room_goto(Menu);
+	instance_destroy();
 }
 
 //timer--;

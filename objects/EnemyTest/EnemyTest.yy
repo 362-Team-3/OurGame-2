@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "TempPlayer_Red",
-    "path": "sprites/TempPlayer_Red/TempPlayer_Red.yy",
+    "name": "TempPlayer_Green",
+    "path": "sprites/TempPlayer_Green/TempPlayer_Green.yy",
   },
   "solid": false,
   "visible": true,
@@ -28,17 +28,16 @@
   "eventList": [
     {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"asteroidObj","path":"objects/asteroidObj/asteroidObj.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"EnemyTestProjectile","path":"objects/EnemyTestProjectile/EnemyTestProjectile.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"Player_Projectile_SideScrolling","path":"objects/Player_Projectile_SideScrolling/Player_Projectile_SideScrolling.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "PlayerSideScrolling",
-    "path": "folders/Objects/PlayerSideScrolling.yy",
+    "name": "Objects",
+    "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "PlayerSideScrolling",
+  "name": "EnemyTest",
   "tags": [],
   "resourceType": "GMObject",
 }

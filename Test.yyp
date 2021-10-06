@@ -14,6 +14,7 @@
     {"id":{"name":"asteroidExploding","path":"sounds/asteroidExploding/asteroidExploding.yy",},"order":0,},
     {"id":{"name":"lvl7","path":"sprites/lvl7/lvl7.yy",},"order":7,},
     {"id":{"name":"Stars","path":"sprites/Stars/Stars.yy",},"order":2,},
+    {"id":{"name":"EnemyTestProjectile","path":"objects/EnemyTestProjectile/EnemyTestProjectile.yy",},"order":21,},
     {"id":{"name":"dualPlanets","path":"sprites/dualPlanets/dualPlanets.yy",},"order":1,},
     {"id":{"name":"LevelSelectBG","path":"sprites/LevelSelectBG/LevelSelectBG.yy",},"order":2,},
     {"id":{"name":"LevelSelect","path":"rooms/LevelSelect/LevelSelect.yy",},"order":1,},
@@ -36,6 +37,7 @@
     {"id":{"name":"level2BGM","path":"sounds/level2BGM/level2BGM.yy",},"order":2,},
     {"id":{"name":"LevelSelectTitle","path":"sprites/LevelSelectTitle/LevelSelectTitle.yy",},"order":3,},
     {"id":{"name":"lvl_7_button","path":"objects/lvl_7_button/lvl_7_button.yy",},"order":7,},
+    {"id":{"name":"tempFlame","path":"sprites/tempFlame/tempFlame.yy",},"order":25,},
     {"id":{"name":"lvl8","path":"sprites/lvl8/lvl8.yy",},"order":8,},
     {"id":{"name":"lvl_1_button","path":"objects/lvl_1_button/lvl_1_button.yy",},"order":1,},
     {"id":{"name":"SpaceBackground","path":"sprites/SpaceBackground/SpaceBackground.yy",},"order":0,},
@@ -80,6 +82,7 @@
     {"id":{"name":"upgradeShopText","path":"sprites/upgradeShopText/upgradeShopText.yy",},"order":1,},
     {"id":{"name":"SpaceBG_inverted","path":"sprites/SpaceBG_inverted/SpaceBG_inverted.yy",},"order":16,},
     {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},"order":18,},
+    {"id":{"name":"EnemyTest","path":"objects/EnemyTest/EnemyTest.yy",},"order":20,},
     {"id":{"name":"lvl3","path":"sprites/lvl3/lvl3.yy",},"order":3,},
   ],
   "Options": [
@@ -141,7 +144,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2.3.5.589",
+    "IDEVersion": "2.3.4.580",
   },
   "resourceVersion": "1.4",
   "name": "Test",
