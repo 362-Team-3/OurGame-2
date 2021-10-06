@@ -45,6 +45,7 @@
     {"id":{"name":"oTitle","path":"objects/oTitle/oTitle.yy",},"order":1,},
     {"id":{"name":"EnemyProjectile_White","path":"objects/EnemyProjectile_White/EnemyProjectile_White.yy",},"order":5,},
     {"id":{"name":"lvl5","path":"sprites/lvl5/lvl5.yy",},"order":5,},
+    {"id":{"name":"Pause2","path":"objects/Pause2/Pause2.yy",},"order":17,},
     {"id":{"name":"BossSprite","path":"sprites/BossSprite/BossSprite.yy",},"order":12,},
     {"id":{"name":"TempPlayer_Red","path":"sprites/TempPlayer_Red/TempPlayer_Red.yy",},"order":4,},
     {"id":{"name":"BuyButton","path":"objects/BuyButton/BuyButton.yy",},"order":0,},
@@ -131,7 +132,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2.3.4.580",
+    "IDEVersion": "2.3.5.589",
   },
   "resourceVersion": "1.4",
   "name": "Test",

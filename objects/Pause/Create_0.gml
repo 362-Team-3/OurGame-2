@@ -14,7 +14,7 @@ pauseMenuY = guiHeight - guiMargin;
 pauseMenuHeight = font_get_size(titleFont);
 pauseMenuCommit = -1;
 pauseMenuControl = true;
-pauseMenuCursor = 2;
+pauseMenuCursor = 1;
 
 //
 pauseMenu[0] = "EXIT";

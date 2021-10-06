@@ -57,14 +57,13 @@ if(pauseMenuCommit != -1)
 	{
 		case 0: room_goto(LevelSelect); break;
 		case 1:	
-		
 				pause = !pause;
-				//if pause == false
-				//{
+				if pause == false
+				{
 					instance_activate_all(); 
 					surface_free(pause_screen);
 					//pause_screen = -1;
-				//} 
+				} 
 				//pause_screen = -1; 
 				break;
 		default: room_goto(Menu); break;
