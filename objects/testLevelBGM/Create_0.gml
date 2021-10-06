@@ -1,0 +1,1 @@
+audio_play_sound(level2BGM, 500, true);

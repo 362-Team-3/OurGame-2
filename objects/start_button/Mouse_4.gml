@@ -3,6 +3,7 @@ if (lvl_1_button.selected) {
 }
 
 if (lvl_2_button.selected) {
+	audio_stop_all()
 	room_goto(TestSideScrollingLevel)
 }
 
