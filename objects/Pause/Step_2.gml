@@ -43,6 +43,7 @@ if(global.gamePaused)
 			}break;
 			case 1: //Exit
 			{
+				instance_destroy();
 				room_goto(LevelSelect);
 			}break;
 		}

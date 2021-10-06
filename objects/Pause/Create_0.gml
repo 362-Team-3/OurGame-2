@@ -1,23 +1,5 @@
-pause = false;
-pause_screen = -1;
-
-//Basic Params of the GUI 
-guiWidth = display_get_gui_width();
-guiHeight = display_get_gui_height()+400;
-guiMargin = 50;
-
-//X and Y coords of menu
-pauseMenuX = guiWidth;
-pauseMenuY = guiHeight - guiMargin;
-
-//
-pauseMenuHeight = font_get_size(titleFont);
-pauseMenuCommit = -1;
-pauseMenuControl = true;
-pauseMenuCursor = 1;
-
-//
-pauseMenu[0] = "EXIT";
-pauseMenu[1] = "UNPAUSE";
-
-pauseMenuItems = array_length(pauseMenu);
+/// @description Insert description here
+// You can write your code in this editor
+global.gamePaused = false;
+pauseOption = ["Continue", "Exit"];
+HOVER_PAUSE = 0;

@@ -26,7 +26,7 @@ if(global.gamePaused)
 			hover += pauseOption[i];
 			draw_set_alpha(0.7);
 		}
-		draw_text(room_width * 0.5, room_height * 0.5 + 15 + (i * 65), hover);
+		draw_text_transformed_colour(room_width * 0.5, room_height * 0.5 + 15 + (i * 65), hover, 1, 1, 0, c_white, c_white, c_yellow, c_yellow, 1);
 		draw_set_alpha(1.0);
 	}
 }
