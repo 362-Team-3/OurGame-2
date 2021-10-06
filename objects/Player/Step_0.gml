@@ -8,7 +8,7 @@ if (keyboard_check(ord("A")) && x > 0) x -= 5;
 
 
 
-image_angle = point_direction(x,y,x,y);
+image_angle = point_direction(x,y,mouse_x,mouse_y);
 
 ShootTimer--;
 if (mouse_check_button_pressed(mb_left) && ShootTimer <= 0) {
