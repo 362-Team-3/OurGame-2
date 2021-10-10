@@ -8,7 +8,7 @@ if (lvl_2_button.selected) {
 }
 
 if (lvl_3_button.selected) {
-	//room_goto()
+	room_goto(S3SelectScreen)
 }
 
 if (lvl_4_button.selected) {
