@@ -97,7 +97,9 @@
     {"id":{"name":"lvl_select_BGM","path":"objects/lvl_select_BGM/lvl_select_BGM.yy",},"order":9,},
     {"id":{"name":"shopButton","path":"sprites/shopButton/shopButton.yy",},"order":10,},
     {"id":{"name":"TempBoss1","path":"sprites/TempBoss1/TempBoss1.yy",},"order":3,},
+    {"id":{"name":"MenuBGM","path":"objects/MenuBGM/MenuBGM.yy",},"order":2,},
     {"id":{"name":"World3_StageBoss","path":"objects/World3_StageBoss/World3_StageBoss.yy",},"order":2,},
+    {"id":{"name":"Room14","path":"rooms/Room14/Room14.yy",},"order":0,},
     {"id":{"name":"TempBossHealthBar","path":"sprites/TempBossHealthBar/TempBossHealthBar.yy",},"order":6,},
     {"id":{"name":"Path1","path":"paths/Path1/Path1.yy",},"order":17,},
     {"id":{"name":"lvl1","path":"sprites/lvl1/lvl1.yy",},"order":1,},
@@ -111,6 +113,7 @@
     {"id":{"name":"SpaceBG_inverted","path":"sprites/SpaceBG_inverted/SpaceBG_inverted.yy",},"order":10,},
     {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},"order":12,},
     {"id":{"name":"SpriteS3Lvl2","path":"sprites/SpriteS3Lvl2/SpriteS3Lvl2.yy",},"order":2,},
+    {"id":{"name":"MainMenuBGM","path":"sounds/MainMenuBGM/MainMenuBGM.yy",},"order":3,},
     {"id":{"name":"SpaceNebula","path":"sprites/SpaceNebula/SpaceNebula.yy",},"order":2,},
     {"id":{"name":"EnemyTest","path":"objects/EnemyTest/EnemyTest.yy",},"order":20,},
     {"id":{"name":"Stage3","path":"sprites/Stage3/Stage3.yy",},"order":2,},
@@ -142,6 +145,7 @@
     {"roomId":{"name":"W3Stage1","path":"rooms/W3Stage1/W3Stage1.yy",},},
     {"roomId":{"name":"W3Stage2","path":"rooms/W3Stage2/W3Stage2.yy",},},
     {"roomId":{"name":"W3StageBoss","path":"rooms/W3StageBoss/W3StageBoss.yy",},},
+    {"roomId":{"name":"Room14","path":"rooms/Room14/Room14.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
@@ -181,6 +185,8 @@
     {"folderPath":"folders/Objects/Level Select Objects/StageSelectTittleObjects.yy","order":13,"resourceVersion":"1.0","name":"StageSelectTittleObjects","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Objects/Level Select - 3.yy","order":22,"resourceVersion":"1.0","name":"Level Select - 3","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites/Stage3Sprites.yy","order":19,"resourceVersion":"1.0","name":"Stage3Sprites","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Rooms/Levels In Progress.yy","order":12,"resourceVersion":"1.0","name":"Levels In Progress","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Sprites/Obstacles.yy","order":20,"resourceVersion":"1.0","name":"Obstacles","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},
@@ -190,7 +196,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2.3.4.580",
+    "IDEVersion": "2.3.5.589",
   },
   "resourceVersion": "1.4",
   "name": "Test",
