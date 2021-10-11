@@ -5,3 +5,4 @@ image_yscale = 0.5;
 
 image_angle = point_direction(x,y,mouse_x,mouse_y);
 motion_set(image_angle,4);
+audio_play_sound(SelectLevelButton, 500, false);
