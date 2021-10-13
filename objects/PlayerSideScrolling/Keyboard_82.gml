@@ -1,0 +1,1 @@
+sTransition(TRANSTYPE.RESTART);
