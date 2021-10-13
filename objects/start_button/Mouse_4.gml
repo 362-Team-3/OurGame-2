@@ -1,5 +1,5 @@
 if (lvl_1_button.selected) {
-	room_goto(Room1)
+	room_goto(S1SelectScreen)
 }
 
 if (lvl_2_button.selected) {
