@@ -20,6 +20,7 @@
     {"id":{"name":"asteroidExploding","path":"sounds/asteroidExploding/asteroidExploding.yy",},"order":0,},
     {"id":{"name":"lvl7","path":"sprites/lvl7/lvl7.yy",},"order":7,},
     {"id":{"name":"Stars","path":"sprites/Stars/Stars.yy",},"order":2,},
+    {"id":{"name":"PlayerHealthBar","path":"sprites/PlayerHealthBar/PlayerHealthBar.yy",},"order":24,},
     {"id":{"name":"EnemyTestProjectile","path":"objects/EnemyTestProjectile/EnemyTestProjectile.yy",},"order":14,},
     {"id":{"name":"ReturnToWorldSelect","path":"objects/ReturnToWorldSelect/ReturnToWorldSelect.yy",},"order":2,},
     {"id":{"name":"Stage4","path":"sprites/Stage4/Stage4.yy",},"order":3,},
