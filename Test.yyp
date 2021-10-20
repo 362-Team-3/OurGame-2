@@ -117,6 +117,7 @@
     {"id":{"name":"lvl1","path":"sprites/lvl1/lvl1.yy",},"order":1,},
     {"id":{"name":"CityscapeBackground","path":"sprites/CityscapeBackground/CityscapeBackground.yy",},"order":29,},
     {"id":{"name":"TestSpriteS3_Lvl1","path":"sprites/TestSpriteS3_Lvl1/TestSpriteS3_Lvl1.yy",},"order":0,},
+    {"id":{"name":"LandscapeBackground","path":"sprites/LandscapeBackground/LandscapeBackground.yy",},"order":30,},
     {"id":{"name":"oTimer","path":"objects/oTimer/oTimer.yy",},"order":0,},
     {"id":{"name":"start","path":"sprites/start/start.yy",},"order":9,},
     {"id":{"name":"timerFont","path":"fonts/timerFont/timerFont.yy",},"order":1,},
