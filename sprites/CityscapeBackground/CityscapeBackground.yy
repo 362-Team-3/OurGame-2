@@ -8,14 +8,14 @@
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
   "bbox_left": 0,
-  "bbox_right": 0,
+  "bbox_right": 1919,
   "bbox_top": 0,
-  "bbox_bottom": 0,
+  "bbox_bottom": 1079,
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 64,
-  "height": 64,
+  "width": 1920,
+  "height": 1080,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"2f8ab328-46a4-4e9c-bfc0-f2fa96f6767a","path":"sprites/Sprite56/Sprite56.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"2f8ab328-46a4-4e9c-bfc0-f2fa96f6767a","path":"sprites/Sprite56/Sprite56.yy",},"LayerId":{"name":"23d9c4a2-3f60-49fe-99b4-34ed63fc685a","path":"sprites/Sprite56/Sprite56.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"Sprite56","path":"sprites/Sprite56/Sprite56.yy",},"resourceVersion":"1.0","name":"2f8ab328-46a4-4e9c-bfc0-f2fa96f6767a","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"5dc0727d-6dda-4669-bd74-d05229376046","path":"sprites/CityscapeBackground/CityscapeBackground.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"5dc0727d-6dda-4669-bd74-d05229376046","path":"sprites/CityscapeBackground/CityscapeBackground.yy",},"LayerId":{"name":"6acf443a-e9a1-497c-957c-a79ba7c0f499","path":"sprites/CityscapeBackground/CityscapeBackground.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"CityscapeBackground","path":"sprites/CityscapeBackground/CityscapeBackground.yy",},"resourceVersion":"1.0","name":"5dc0727d-6dda-4669-bd74-d05229376046","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"Sprite56","path":"sprites/Sprite56/Sprite56.yy",},
+    "spriteId": {"name":"CityscapeBackground","path":"sprites/CityscapeBackground/CityscapeBackground.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"c4b58ffc-c73b-463b-8bf9-513947301a97","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"2f8ab328-46a4-4e9c-bfc0-f2fa96f6767a","path":"sprites/Sprite56/Sprite56.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"3b8e6f2b-2c3e-4053-8c06-bd3024667b1c","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"5dc0727d-6dda-4669-bd74-d05229376046","path":"sprites/CityscapeBackground/CityscapeBackground.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
     ],
     "visibleRange": null,
@@ -58,14 +58,14 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"Sprite56","path":"sprites/Sprite56/Sprite56.yy",},
+    "parent": {"name":"CityscapeBackground","path":"sprites/CityscapeBackground/CityscapeBackground.yy",},
     "resourceVersion": "1.3",
-    "name": "Sprite56",
+    "name": "CityscapeBackground",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"23d9c4a2-3f60-49fe-99b4-34ed63fc685a","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"6acf443a-e9a1-497c-957c-a79ba7c0f499","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {
@@ -73,7 +73,7 @@
     "path": "folders/Sprites.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Sprite56",
+  "name": "CityscapeBackground",
   "tags": [],
   "resourceType": "GMSprite",
 }
