@@ -4,6 +4,5 @@ Health = 100;
 BossTurrets = 4;
 Invulnerable = true;
 ShootTimer = 60;
-MulticolorShields = false;
 //image_xscale = 2.5;
 //image_yscale = 2.5;

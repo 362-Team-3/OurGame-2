@@ -7,35 +7,11 @@
 //}
 
 if (!Invulnerable){
-	
-	if(MulticolorShields){
-		if (ShootTimer>=420 && ShootTimer%210 == 0){
-			var a = instance_create_layer(x,y,layer,BossLaser);
-			a.rotationDirection = -1;
-			a.image_angle = point_direction(x,y,Player.x,Player.y)+90;
-			if (instance_exists(Boss1ShieldRed)) a.Color = "red";
-			else if (instance_exists(Boss1ShieldGreen)) a.Color = "green";
-			else if (instance_exists(Boss1ShieldBlue)) a.Color = "blue";
-			
-			a = instance_create_layer(x,y,layer,BossLaser);
-			a.rotationDirection = 1;
-			a.image_angle = point_direction(x,y,Player.x,Player.y)-90;
-			if (instance_exists(Boss1ShieldRed)) a.Color = "red";
-			else if (instance_exists(Boss1ShieldGreen)) a.Color = "green";
-			else if (instance_exists(Boss1ShieldBlue)) a.Color = "blue";
-		}
-		if (ShootTimer <= -60) ShootTimer = 840;
-	}else{
-		if(ShootTimer <= 0 && ShootTimer%15 == 0) instance_create_layer(x,y,layer,BossProjectile);
-		if (ShootTimer <= -60) ShootTimer = 420;
-	}
-	
-	/*if(ShootTimer <= 0 && ShootTimer%15 == 0 && !MulticolorShields){
+	if(ShootTimer <= 0 && ShootTimer%15 == 0){
 		instance_create_layer(x,y,layer,BossProjectile);
-	}*/
+	}
 	ShootTimer--;
-	
-	
+	if (ShootTimer <= -60) ShootTimer = 420;
 }
 
 
@@ -50,13 +26,6 @@ if (BossTurrets == 2 && Health <= 50){
 if (BossTurrets == 1 && Health <= 25){
 	Invulnerable = true;
 	ShootTimer = 60
-}
-
-if (BossTurrets <= 0 && MulticolorShields == false){
-	MulticolorShields = true;
-	instance_create_layer(x,y,layer,Boss1ShieldBlue);
-	instance_create_layer(x,y,layer,Boss1ShieldGreen);
-	instance_create_layer(x,y,layer,Boss1ShieldRed);
 }
 
 

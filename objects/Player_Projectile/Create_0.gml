@@ -1,22 +1,5 @@
 /// @description Insert description here
 // You can write your code in this editor
-Color = Player.Color;
-
-switch(Color){
-	case "blue":
-		sprite_index = TempPlayer_Blue;
-		break;
-	case "red":
-		sprite_index = TempPlayer_Red;
-		break;
-	case "green":
-		sprite_index = TempPlayer_Green;
-		break;
-	default:
-		break;
-}
-
-
 image_xscale = 0.5;
 image_yscale = 0.5;
 
