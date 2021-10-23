@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "TempPlayer_Red",
-    "path": "sprites/TempPlayer_Red/TempPlayer_Red.yy",
+    "name": "Laser",
+    "path": "sprites/Laser/Laser.yy",
   },
   "solid": false,
   "visible": true,

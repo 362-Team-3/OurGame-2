@@ -8,7 +8,7 @@ if (keyboard_check(ord("A")) && x > 0) x -= 5;
 
 
 
-image_angle = point_direction(x,y,mouse_x,mouse_y);
+//image_angle = point_direction(x,y,mouse_x,mouse_y);
 
 //timer--;
 //if(timer <= 0){

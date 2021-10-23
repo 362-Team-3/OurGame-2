@@ -69,6 +69,7 @@
     {"id":{"name":"SpaceBackground","path":"sprites/SpaceBackground/SpaceBackground.yy",},"order":0,},
     {"id":{"name":"titleFont","path":"fonts/titleFont/titleFont.yy",},"order":0,},
     {"id":{"name":"FractalSpace","path":"sprites/FractalSpace/FractalSpace.yy",},"order":3,},
+    {"id":{"name":"Laser","path":"sprites/Laser/Laser.yy",},"order":32,},
     {"id":{"name":"TempEnemyProjectile_White","path":"sprites/TempEnemyProjectile_White/TempEnemyProjectile_White.yy",},"order":4,},
     {"id":{"name":"SpaceBG","path":"sprites/SpaceBG/SpaceBG.yy",},"order":0,},
     {"id":{"name":"Glasses","path":"sprites/Glasses/Glasses.yy",},"order":9,},
