@@ -28,8 +28,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Boss1 Objects",
+    "path": "folders/Objects/Boss1 Objects.yy",
   },
   "resourceVersion": "1.0",
   "name": "BossProjectile",
