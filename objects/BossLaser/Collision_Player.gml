@@ -1,5 +1,3 @@
 /// @description Insert description here
 // You can write your code in this editor
-Health = 100;
-ShootTimer = 15;
-Color = "white";
+with(other) Health -= 50;

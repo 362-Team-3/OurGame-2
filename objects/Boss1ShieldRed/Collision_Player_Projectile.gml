@@ -1,5 +1,4 @@
 /// @description Insert description here
 // You can write your code in this editor
-Health = 100;
-ShootTimer = 15;
-Color = "white";
+if(other.Color =="red") Health -=5;
+with(other) instance_destroy();

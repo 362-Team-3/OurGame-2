@@ -4,5 +4,7 @@ Health = 100;
 BossTurrets = 4;
 Invulnerable = true;
 ShootTimer = 60;
+MulticolorShields = false;
+SpawnPowerupTimer = 600;
 //image_xscale = 2.5;
 //image_yscale = 2.5;

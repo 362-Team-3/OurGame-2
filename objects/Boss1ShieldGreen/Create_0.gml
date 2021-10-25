@@ -1,5 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-Health = 100;
-ShootTimer = 15;
-Color = "white";
+image_xscale = 2.8;
+image_yscale = 2.8;
+
+Health = 20;

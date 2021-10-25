@@ -1,5 +1,5 @@
 /// @description Insert description here
 // You can write your code in this editor
-Health = 100;
-ShootTimer = 15;
-Color = "white";
+image_angle++;
+
+if (Health <= 0) instance_destroy();

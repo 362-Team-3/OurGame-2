@@ -20,6 +20,20 @@ if (Health <= 0){
 	room_goto(Menu);
 }
 
+switch(Color){
+	case "blue":
+		sprite_index = TempPlayer_Blue;
+		break;
+	case "red":
+		sprite_index = TempPlayer_Red;
+		break;
+	case "green":
+		sprite_index = TempPlayer_Green;
+		break;
+	default:
+		break;
+}
+
 //timer--;
 //if(timer <= 0){
 //	instance_create_layer(random_range(0,1366),0,layer,Enemy);   // spawn enemy along top
