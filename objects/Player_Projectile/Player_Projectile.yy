@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Laser",
-    "path": "sprites/Laser/Laser.yy",
+    "name": "PlayerLaserRed_Sprite",
+    "path": "sprites/PlayerLaserRed_Sprite/PlayerLaserRed_Sprite.yy",
   },
   "solid": false,
   "visible": true,

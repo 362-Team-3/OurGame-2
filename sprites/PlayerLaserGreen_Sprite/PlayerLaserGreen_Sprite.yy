@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"ccbb2e13-4e19-499c-9c73-ff133a1b24f1","path":"sprites/Laser/Laser.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"ccbb2e13-4e19-499c-9c73-ff133a1b24f1","path":"sprites/Laser/Laser.yy",},"LayerId":{"name":"6cc71375-315c-4e4f-854a-4d84dd863272","path":"sprites/Laser/Laser.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"Laser","path":"sprites/Laser/Laser.yy",},"resourceVersion":"1.0","name":"ccbb2e13-4e19-499c-9c73-ff133a1b24f1","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"04064975-51f0-4298-8e6e-1ff1ba7a6ee3","path":"sprites/PlayerLaserGreen_Sprite/PlayerLaserGreen_Sprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"04064975-51f0-4298-8e6e-1ff1ba7a6ee3","path":"sprites/PlayerLaserGreen_Sprite/PlayerLaserGreen_Sprite.yy",},"LayerId":{"name":"91dd92cc-aa8c-46aa-b72c-23c91b9ba3cc","path":"sprites/PlayerLaserGreen_Sprite/PlayerLaserGreen_Sprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"PlayerLaserGreen_Sprite","path":"sprites/PlayerLaserGreen_Sprite/PlayerLaserGreen_Sprite.yy",},"resourceVersion":"1.0","name":"04064975-51f0-4298-8e6e-1ff1ba7a6ee3","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"Laser","path":"sprites/Laser/Laser.yy",},
+    "spriteId": {"name":"PlayerLaserGreen_Sprite","path":"sprites/PlayerLaserGreen_Sprite/PlayerLaserGreen_Sprite.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"d796f95c-2645-4d19-b763-72d4d10ac17a","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"ccbb2e13-4e19-499c-9c73-ff133a1b24f1","path":"sprites/Laser/Laser.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"d6cfe780-9d4b-43a6-a0b4-fbacf4773eaa","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"04064975-51f0-4298-8e6e-1ff1ba7a6ee3","path":"sprites/PlayerLaserGreen_Sprite/PlayerLaserGreen_Sprite.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
     ],
     "visibleRange": null,
@@ -58,14 +58,14 @@
     "yorigin": 29,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"Laser","path":"sprites/Laser/Laser.yy",},
+    "parent": {"name":"PlayerLaserGreen_Sprite","path":"sprites/PlayerLaserGreen_Sprite/PlayerLaserGreen_Sprite.yy",},
     "resourceVersion": "1.3",
-    "name": "Laser",
+    "name": "PlayerLaserGreen_Sprite",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"6cc71375-315c-4e4f-854a-4d84dd863272","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"91dd92cc-aa8c-46aa-b72c-23c91b9ba3cc","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {
@@ -73,7 +73,7 @@
     "path": "folders/Sprites.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Laser",
+  "name": "PlayerLaserGreen_Sprite",
   "tags": [],
   "resourceType": "GMSprite",
 }

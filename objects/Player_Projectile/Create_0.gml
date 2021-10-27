@@ -4,13 +4,13 @@ Color = Player.Color;
 
 switch(Color){
 	case "blue":
-		sprite_index = TempPlayer_Blue;
+		sprite_index = PlayerLaserBlue_Sprite;
 		break;
 	case "red":
-		sprite_index = TempPlayer_Red;
+		sprite_index = PlayerLaserRed_Sprite;
 		break;
 	case "green":
-		sprite_index = TempPlayer_Green;
+		sprite_index = PlayerLaserGreen_Sprite;
 		break;
 	default:
 		break;
@@ -18,7 +18,7 @@ switch(Color){
 
 
 image_xscale = 0.5;
-image_yscale = 0.5;
+image_yscale = 1;
 
 image_angle = point_direction(x,y,mouse_x,mouse_y);
 motion_set(image_angle,4);

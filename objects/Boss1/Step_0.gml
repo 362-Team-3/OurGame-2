@@ -12,14 +12,56 @@ if (!Invulnerable){
 		if (ShootTimer>=420 && ShootTimer%210 == 0){
 			var a = instance_create_layer(x,y,layer,BossLaser);
 			a.rotationDirection = -1;
-			a.image_angle = point_direction(x,y,Player.x,Player.y)+90;
+			a.image_angle = point_direction(x,y,Player.x,Player.y)+135;
+			if (instance_exists(Boss1ShieldRed)) a.Color = "red";
+			else if (instance_exists(Boss1ShieldGreen)) a.Color = "green";
+			else if (instance_exists(Boss1ShieldBlue)) a.Color = "blue";
+			
+			var a = instance_create_layer(x,y,layer,BossLaser);
+			a.rotationDirection = -1;
+			a.image_angle = point_direction(x,y,Player.x,Player.y)+225;
+			if (instance_exists(Boss1ShieldRed)) a.Color = "red";
+			else if (instance_exists(Boss1ShieldGreen)) a.Color = "green";
+			else if (instance_exists(Boss1ShieldBlue)) a.Color = "blue";
+			
+			var a = instance_create_layer(x,y,layer,BossLaser);
+			a.rotationDirection = -1;
+			a.image_angle = point_direction(x,y,Player.x,Player.y)+315;
+			if (instance_exists(Boss1ShieldRed)) a.Color = "red";
+			else if (instance_exists(Boss1ShieldGreen)) a.Color = "green";
+			else if (instance_exists(Boss1ShieldBlue)) a.Color = "blue";
+			
+			var a = instance_create_layer(x,y,layer,BossLaser);
+			a.rotationDirection = -1;
+			a.image_angle = point_direction(x,y,Player.x,Player.y)+45;
+			if (instance_exists(Boss1ShieldRed)) a.Color = "red";
+			else if (instance_exists(Boss1ShieldGreen)) a.Color = "green";
+			else if (instance_exists(Boss1ShieldBlue)) a.Color = "blue";
+			/////////////////////////////////////////////////////////////////////////////////////
+			a = instance_create_layer(x,y,layer,BossLaser);
+			a.rotationDirection = 1;
+			a.image_angle = point_direction(x,y,Player.x,Player.y)+135;
 			if (instance_exists(Boss1ShieldRed)) a.Color = "red";
 			else if (instance_exists(Boss1ShieldGreen)) a.Color = "green";
 			else if (instance_exists(Boss1ShieldBlue)) a.Color = "blue";
 			
 			a = instance_create_layer(x,y,layer,BossLaser);
 			a.rotationDirection = 1;
-			a.image_angle = point_direction(x,y,Player.x,Player.y)-90;
+			a.image_angle = point_direction(x,y,Player.x,Player.y)+225;
+			if (instance_exists(Boss1ShieldRed)) a.Color = "red";
+			else if (instance_exists(Boss1ShieldGreen)) a.Color = "green";
+			else if (instance_exists(Boss1ShieldBlue)) a.Color = "blue";
+			
+			a = instance_create_layer(x,y,layer,BossLaser);
+			a.rotationDirection = 1;
+			a.image_angle = point_direction(x,y,Player.x,Player.y)+315;
+			if (instance_exists(Boss1ShieldRed)) a.Color = "red";
+			else if (instance_exists(Boss1ShieldGreen)) a.Color = "green";
+			else if (instance_exists(Boss1ShieldBlue)) a.Color = "blue";
+			
+			a = instance_create_layer(x,y,layer,BossLaser);
+			a.rotationDirection = 1;
+			a.image_angle = point_direction(x,y,Player.x,Player.y)+45;
 			if (instance_exists(Boss1ShieldRed)) a.Color = "red";
 			else if (instance_exists(Boss1ShieldGreen)) a.Color = "green";
 			else if (instance_exists(Boss1ShieldBlue)) a.Color = "blue";
