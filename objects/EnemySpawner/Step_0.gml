@@ -1,8 +1,10 @@
 Time++
 
+colors = [EnemyThreeShot, EnemyThreeShotBlue, EnemyThreeShotGreen];
+
 if (Time mod 180 == 0) {
 	
-	instance_create_layer(1500, random_range(0, 768), layer, EnemyThreeShot)
+	instance_create_layer(1500, random_range(0, 768), layer, colors[irandom_range(0,2)])
 	
 }
 
