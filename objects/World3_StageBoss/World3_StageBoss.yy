@@ -28,7 +28,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "Level Select - 3",
-    "path": "folders/Objects/Level Select - 3.yy",
+    "path": "folders/Objects/Level Select Stages/Level Select - 3.yy",
   },
   "resourceVersion": "1.0",
   "name": "World3_StageBoss",

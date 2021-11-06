@@ -70,7 +70,7 @@
   "nineSlice": null,
   "parent": {
     "name": "Stage3Sprites",
-    "path": "folders/Sprites/Stage3Sprites.yy",
+    "path": "folders/Sprites/StageSelectionSprites/Stage3Sprites.yy",
   },
   "resourceVersion": "1.0",
   "name": "TestSpriteS3_Boss",

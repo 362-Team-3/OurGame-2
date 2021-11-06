@@ -1,16 +1,10 @@
 {
-  "spriteId": {
-    "name": "lvl6",
-    "path": "sprites/lvl6/lvl6.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": {
-    "name": "lvl_select_button_parent",
-    "path": "objects/lvl_select_button_parent/lvl_select_button_parent.yy",
-  },
+  "parentObjectId": null,
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -24,18 +18,17 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":8,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":4,"eventType":6,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "World Select Objects",
-    "path": "folders/Objects/World Select Objects.yy",
+    "name": "Level Select Stages",
+    "path": "folders/Objects/Level Select Stages.yy",
   },
   "resourceVersion": "1.0",
-  "name": "lvl_6_button",
+  "name": "StageTemplate",
   "tags": [],
   "resourceType": "GMObject",
 }

@@ -47,7 +47,7 @@
   },
   "parent": {
     "name": "Stage 2",
-    "path": "folders/Rooms/Stage 2.yy",
+    "path": "folders/Rooms/Stages/Stage 2.yy",
   },
   "resourceVersion": "1.0",
   "name": "S2SelectScreen",

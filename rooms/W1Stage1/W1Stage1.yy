@@ -50,7 +50,7 @@
   },
   "parent": {
     "name": "Stage 1",
-    "path": "folders/Rooms/Stage 1.yy",
+    "path": "folders/Rooms/Stages/Stage 1.yy",
   },
   "resourceVersion": "1.0",
   "name": "W1Stage1",

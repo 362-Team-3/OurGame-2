@@ -25,7 +25,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "StageSelectTittleObjects",
-    "path": "folders/Objects/Level Select Objects/StageSelectTittleObjects.yy",
+    "path": "folders/Objects/World Select Objects/StageSelectTittleObjects.yy",
   },
   "resourceVersion": "1.0",
   "name": "Stage1Title",

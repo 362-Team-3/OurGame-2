@@ -57,7 +57,7 @@
   },
   "parent": {
     "name": "Stage 3",
-    "path": "folders/Rooms/Stage 3.yy",
+    "path": "folders/Rooms/Stages/Stage 3.yy",
   },
   "resourceVersion": "1.0",
   "name": "S3SelectScreen",

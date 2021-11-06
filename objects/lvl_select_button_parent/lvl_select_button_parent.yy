@@ -24,8 +24,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Level Select Objects",
-    "path": "folders/Objects/Level Select Objects.yy",
+    "name": "World Select Objects",
+    "path": "folders/Objects/World Select Objects.yy",
   },
   "resourceVersion": "1.0",
   "name": "lvl_select_button_parent",
