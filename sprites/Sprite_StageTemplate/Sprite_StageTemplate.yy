@@ -68,10 +68,6 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"03f1b54c-e038-4226-a193-4f5bb79be556","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
-  "parent": {
-    "name": "Stage3Sprites",
-    "path": "folders/Sprites/StageSelectionSprites/Stage3Sprites.yy",
-  },
   "resourceVersion": "1.0",
   "name": "Sprite_StageTemplate",
   "tags": [],
