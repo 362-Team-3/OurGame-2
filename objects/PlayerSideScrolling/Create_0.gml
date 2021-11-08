@@ -10,3 +10,4 @@ healthbar_x = (400/2) - (healthbar_width/2);
 healthbar_y = ystart - 400;
 
 ShootTimer = 15;
+ShootTimer2 = 15;
