@@ -1,14 +1,6 @@
 {
   "resources": [
-<<<<<<< Updated upstream
     {"id":{"name":"Interface","path":"sounds/Interface/Interface.yy",},"order":1,},
-=======
-<<<<<<< HEAD
-    {"id":{"name":"Sprite90","path":"sprites/Sprite90/Sprite90.yy",},"order":29,},
-=======
-    {"id":{"name":"Interface","path":"sounds/Interface/Interface.yy",},"order":1,},
->>>>>>> 5c88b020552c350ce24029ac7a14f607ee1080bb
->>>>>>> Stashed changes
     {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":11,},
     {"id":{"name":"S3SelectScreen","path":"rooms/S3SelectScreen/S3SelectScreen.yy",},"order":0,},
@@ -18,7 +10,6 @@
     {"id":{"name":"NeuronBackground","path":"sprites/NeuronBackground/NeuronBackground.yy",},"order":5,},
     {"id":{"name":"upgradeShopButton","path":"objects/upgradeShopButton/upgradeShopButton.yy",},"order":12,},
     {"id":{"name":"lvl_4_button","path":"objects/lvl_4_button/lvl_4_button.yy",},"order":4,},
-    {"id":{"name":"Sprite88","path":"sprites/Sprite88/Sprite88.yy",},"order":27,},
     {"id":{"name":"Stage2Title","path":"objects/Stage2Title/Stage2Title.yy",},"order":1,},
     {"id":{"name":"EnemyThreeShotBlue","path":"objects/EnemyThreeShotBlue/EnemyThreeShotBlue.yy",},"order":2,},
     {"id":{"name":"PlayerSideScrolling","path":"objects/PlayerSideScrolling/PlayerSideScrolling.yy",},"order":0,},
@@ -63,26 +54,13 @@
     {"id":{"name":"EnemySpawner","path":"objects/EnemySpawner/EnemySpawner.yy",},"order":2,},
     {"id":{"name":"TempBoss1LaserFiringBlue_Sprite","path":"sprites/TempBoss1LaserFiringBlue_Sprite/TempBoss1LaserFiringBlue_Sprite.yy",},"order":12,},
     {"id":{"name":"S4SelectScreen","path":"rooms/S4SelectScreen/S4SelectScreen.yy",},"order":0,},
-    {"id":{"name":"Sprite85","path":"sprites/Sprite85/Sprite85.yy",},"order":24,},
     {"id":{"name":"oMenu","path":"objects/oMenu/oMenu.yy",},"order":0,},
-    {"id":{"name":"TempHolder","path":"sprites/TempHolder/TempHolder.yy",},"order":21,},
     {"id":{"name":"Boss1ShieldWhiteBroken1_Sprite","path":"sprites/Boss1ShieldWhiteBroken1_Sprite/Boss1ShieldWhiteBroken1_Sprite.yy",},"order":4,},
     {"id":{"name":"TempPlayer_StageSelect","path":"sprites/TempPlayer_StageSelect/TempPlayer_StageSelect.yy",},"order":19,},
     {"id":{"name":"Boss1ShieldWhiteFull_Sprite","path":"sprites/Boss1ShieldWhiteFull_Sprite/Boss1ShieldWhiteFull_Sprite.yy",},"order":3,},
     {"id":{"name":"UpgradeShopBGM","path":"sounds/UpgradeShopBGM/UpgradeShopBGM.yy",},"order":1,},
-<<<<<<< Updated upstream
     {"id":{"name":"asteroid","path":"sprites/asteroid/asteroid.yy",},"order":21,},
     {"id":{"name":"PlayerLaserBlue_Sprite","path":"sprites/PlayerLaserBlue_Sprite/PlayerLaserBlue_Sprite.yy",},"order":31,},
-=======
-<<<<<<< HEAD
-    {"id":{"name":"asteroid","path":"sprites/asteroid/asteroid.yy",},"order":22,},
-    {"id":{"name":"WeaponUpgrade","path":"objects/WeaponUpgrade/WeaponUpgrade.yy",},"order":2,},
-    {"id":{"name":"PlayerLaserBlue_Sprite","path":"sprites/PlayerLaserBlue_Sprite/PlayerLaserBlue_Sprite.yy",},"order":35,},
-=======
-    {"id":{"name":"asteroid","path":"sprites/asteroid/asteroid.yy",},"order":21,},
-    {"id":{"name":"PlayerLaserBlue_Sprite","path":"sprites/PlayerLaserBlue_Sprite/PlayerLaserBlue_Sprite.yy",},"order":31,},
->>>>>>> 5c88b020552c350ce24029ac7a14f607ee1080bb
->>>>>>> Stashed changes
     {"id":{"name":"LevelSelectBGM","path":"sounds/LevelSelectBGM/LevelSelectBGM.yy",},"order":0,},
     {"id":{"name":"RocketSprite","path":"sprites/RocketSprite/RocketSprite.yy",},"order":27,},
     {"id":{"name":"Enemy","path":"objects/Enemy/Enemy.yy",},"order":7,},
@@ -94,23 +72,12 @@
     {"id":{"name":"W1Stage1","path":"rooms/W1Stage1/W1Stage1.yy",},"order":1,},
     {"id":{"name":"lvl_5_button","path":"objects/lvl_5_button/lvl_5_button.yy",},"order":5,},
     {"id":{"name":"TempBoss1LaserChargingBlue_Sprite","path":"sprites/TempBoss1LaserChargingBlue_Sprite/TempBoss1LaserChargingBlue_Sprite.yy",},"order":13,},
-    {"id":{"name":"Sprite81","path":"sprites/Sprite81/Sprite81.yy",},"order":20,},
-    {"id":{"name":"Player_Projectile_Explosion","path":"objects/Player_Projectile_Explosion/Player_Projectile_Explosion.yy",},"order":2,},
     {"id":{"name":"TestSpriteS3_Boss","path":"sprites/TestSpriteS3_Boss/TestSpriteS3_Boss.yy",},"order":5,},
     {"id":{"name":"Stage4Title","path":"objects/Stage4Title/Stage4Title.yy",},"order":3,},
-<<<<<<< Updated upstream
     {"id":{"name":"EnemyThreeShotGreen","path":"objects/EnemyThreeShotGreen/EnemyThreeShotGreen.yy",},"order":3,},
-=======
-<<<<<<< HEAD
-    {"id":{"name":"Sprite84","path":"sprites/Sprite84/Sprite84.yy",},"order":23,},
-=======
-    {"id":{"name":"EnemyThreeShotGreen","path":"objects/EnemyThreeShotGreen/EnemyThreeShotGreen.yy",},"order":3,},
->>>>>>> 5c88b020552c350ce24029ac7a14f607ee1080bb
->>>>>>> Stashed changes
     {"id":{"name":"ExitButton","path":"objects/ExitButton/ExitButton.yy",},"order":1,},
     {"id":{"name":"TempBoss1LaserFiringRed_Sprite","path":"sprites/TempBoss1LaserFiringRed_Sprite/TempBoss1LaserFiringRed_Sprite.yy",},"order":10,},
     {"id":{"name":"back","path":"sprites/back/back.yy",},"order":0,},
-    {"id":{"name":"Initialize","path":"objects/Initialize/Initialize.yy",},"order":22,},
     {"id":{"name":"TempColorPowerupGreen_Sprite","path":"sprites/TempColorPowerupGreen_Sprite/TempColorPowerupGreen_Sprite.yy",},"order":8,},
     {"id":{"name":"exitButton","path":"sprites/exitButton/exitButton.yy",},"order":3,},
     {"id":{"name":"sTransition","path":"scripts/sTransition/sTransition.yy",},"order":1,},
@@ -142,11 +109,9 @@
     {"id":{"name":"oTitle","path":"objects/oTitle/oTitle.yy",},"order":1,},
     {"id":{"name":"SpriteS3BossLvl","path":"sprites/SpriteS3BossLvl/SpriteS3BossLvl.yy",},"order":3,},
     {"id":{"name":"EnemyProjectile_White","path":"objects/EnemyProjectile_White/EnemyProjectile_White.yy",},"order":2,},
-    {"id":{"name":"Sprite83","path":"sprites/Sprite83/Sprite83.yy",},"order":22,},
     {"id":{"name":"lvl5","path":"sprites/lvl5/lvl5.yy",},"order":5,},
     {"id":{"name":"ThreeShotProjectileGreen","path":"objects/ThreeShotProjectileGreen/ThreeShotProjectileGreen.yy",},"order":5,},
     {"id":{"name":"Pause","path":"objects/Pause/Pause.yy",},"order":1,},
-    {"id":{"name":"cannonUpgrade","path":"objects/cannonUpgrade/cannonUpgrade.yy",},"order":3,},
     {"id":{"name":"Boss1ShieldWhiteBroken2_Sprite","path":"sprites/Boss1ShieldWhiteBroken2_Sprite/Boss1ShieldWhiteBroken2_Sprite.yy",},"order":5,},
     {"id":{"name":"BossSprite","path":"sprites/BossSprite/BossSprite.yy",},"order":8,},
     {"id":{"name":"TempPlayer_Red","path":"sprites/TempPlayer_Red/TempPlayer_Red.yy",},"order":0,},
@@ -171,8 +136,6 @@
     {"id":{"name":"StageSelectPlayer","path":"objects/StageSelectPlayer/StageSelectPlayer.yy",},"order":16,},
     {"id":{"name":"lvl4","path":"sprites/lvl4/lvl4.yy",},"order":4,},
     {"id":{"name":"TempBoss1LaserChargingRed_Sprite","path":"sprites/TempBoss1LaserChargingRed_Sprite/TempBoss1LaserChargingRed_Sprite.yy",},"order":15,},
-    {"id":{"name":"Sprite89","path":"sprites/Sprite89/Sprite89.yy",},"order":28,},
-    {"id":{"name":"Sprite79","path":"sprites/Sprite79/Sprite79.yy",},"order":18,},
     {"id":{"name":"World3_Stage1","path":"objects/World3_Stage1/World3_Stage1.yy",},"order":0,},
     {"id":{"name":"textFont","path":"fonts/textFont/textFont.yy",},"order":2,},
     {"id":{"name":"TestSpriteS3_Lvl2","path":"sprites/TestSpriteS3_Lvl2/TestSpriteS3_Lvl2.yy",},"order":4,},
@@ -188,19 +151,8 @@
     {"id":{"name":"W1Stage2","path":"rooms/W1Stage2/W1Stage2.yy",},"order":2,},
     {"id":{"name":"Path1","path":"paths/Path1/Path1.yy",},"order":17,},
     {"id":{"name":"lvl1","path":"sprites/lvl1/lvl1.yy",},"order":1,},
-<<<<<<< Updated upstream
     {"id":{"name":"PlayerLaserGreen_Sprite","path":"sprites/PlayerLaserGreen_Sprite/PlayerLaserGreen_Sprite.yy",},"order":30,},
     {"id":{"name":"CityscapeBackground","path":"sprites/CityscapeBackground/CityscapeBackground.yy",},"order":25,},
-=======
-<<<<<<< HEAD
-    {"id":{"name":"PlayerLaserGreen_Sprite","path":"sprites/PlayerLaserGreen_Sprite/PlayerLaserGreen_Sprite.yy",},"order":34,},
-    {"id":{"name":"Sprite86","path":"sprites/Sprite86/Sprite86.yy",},"order":25,},
-    {"id":{"name":"CityscapeBackground","path":"sprites/CityscapeBackground/CityscapeBackground.yy",},"order":29,},
-=======
-    {"id":{"name":"PlayerLaserGreen_Sprite","path":"sprites/PlayerLaserGreen_Sprite/PlayerLaserGreen_Sprite.yy",},"order":30,},
-    {"id":{"name":"CityscapeBackground","path":"sprites/CityscapeBackground/CityscapeBackground.yy",},"order":25,},
->>>>>>> 5c88b020552c350ce24029ac7a14f607ee1080bb
->>>>>>> Stashed changes
     {"id":{"name":"TestSpriteS3_Lvl1","path":"sprites/TestSpriteS3_Lvl1/TestSpriteS3_Lvl1.yy",},"order":0,},
     {"id":{"name":"LandscapeBackground","path":"sprites/LandscapeBackground/LandscapeBackground.yy",},"order":26,},
     {"id":{"name":"oTimer","path":"objects/oTimer/oTimer.yy",},"order":0,},
@@ -216,19 +168,9 @@
     {"id":{"name":"PlanetBackground","path":"sprites/PlanetBackground/PlanetBackground.yy",},"order":36,},
     {"id":{"name":"World1_Stage1","path":"objects/World1_Stage1/World1_Stage1.yy",},"order":0,},
     {"id":{"name":"MainMenuBGM","path":"sounds/MainMenuBGM/MainMenuBGM.yy",},"order":3,},
-<<<<<<< Updated upstream
     {"id":{"name":"RocketSprite2","path":"sprites/RocketSprite2/RocketSprite2.yy",},"order":24,},
-=======
-<<<<<<< HEAD
-    {"id":{"name":"RocketSprite2","path":"sprites/RocketSprite2/RocketSprite2.yy",},"order":27,},
-    {"id":{"name":"Sprite87","path":"sprites/Sprite87/Sprite87.yy",},"order":26,},
-=======
-    {"id":{"name":"RocketSprite2","path":"sprites/RocketSprite2/RocketSprite2.yy",},"order":24,},
->>>>>>> 5c88b020552c350ce24029ac7a14f607ee1080bb
->>>>>>> Stashed changes
     {"id":{"name":"World1_StageBoss","path":"objects/World1_StageBoss/World1_StageBoss.yy",},"order":2,},
     {"id":{"name":"SpaceNebula","path":"sprites/SpaceNebula/SpaceNebula.yy",},"order":2,},
-    {"id":{"name":"Sprite80","path":"sprites/Sprite80/Sprite80.yy",},"order":19,},
     {"id":{"name":"EnemyTest","path":"objects/EnemyTest/EnemyTest.yy",},"order":13,},
     {"id":{"name":"Stage3","path":"sprites/Stage3/Stage3.yy",},"order":2,},
     {"id":{"name":"ThreeShotProjectileBlue","path":"objects/ThreeShotProjectileBlue/ThreeShotProjectileBlue.yy",},"order":4,},
