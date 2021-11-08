@@ -163,6 +163,7 @@
     {"id":{"name":"SpaceBG_inverted","path":"sprites/SpaceBG_inverted/SpaceBG_inverted.yy",},"order":10,},
     {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},"order":12,},
     {"id":{"name":"SpriteS3Lvl2","path":"sprites/SpriteS3Lvl2/SpriteS3Lvl2.yy",},"order":2,},
+    {"id":{"name":"PlanetBackground","path":"sprites/PlanetBackground/PlanetBackground.yy",},"order":36,},
     {"id":{"name":"World1_Stage1","path":"objects/World1_Stage1/World1_Stage1.yy",},"order":0,},
     {"id":{"name":"MainMenuBGM","path":"sounds/MainMenuBGM/MainMenuBGM.yy",},"order":3,},
     {"id":{"name":"RocketSprite2","path":"sprites/RocketSprite2/RocketSprite2.yy",},"order":24,},
