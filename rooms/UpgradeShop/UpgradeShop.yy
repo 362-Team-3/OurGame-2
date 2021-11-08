@@ -17,8 +17,6 @@
         {"spriteId":{"name":"upgradeShopText","path":"sprites/upgradeShopText/upgradeShopText.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":1.13138807,"scaleY":1.13138819,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":32.0,"y":32.0,"resourceVersion":"1.0","name":"graphic_4B78BB69","tags":[],"resourceType":"GMRSpriteGraphic",},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Assets_1","tags":[],"resourceType":"GMRAssetLayer",},
     {"instances":[
-        {"properties":[],"isDnd":false,"objectId":{"name":"cannonUpgrade","path":"objects/cannonUpgrade/cannonUpgrade.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4284156671,"rotation":0.0,"scaleX":1.5,"scaleY":1.5,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":192.0,"y":192.0,"resourceVersion":"1.0","name":"inst_188D81BE","tags":[],"resourceType":"GMRInstance",},
-        {"properties":[],"isDnd":false,"objectId":{"name":"WeaponUpgrade","path":"objects/WeaponUpgrade/WeaponUpgrade.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.5,"scaleY":1.5,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":384.0,"y":192.0,"resourceVersion":"1.0","name":"inst_1C644088","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"BuyButton","path":"objects/BuyButton/BuyButton.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":0.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":928.0,"y":704.0,"resourceVersion":"1.0","name":"inst_7AA3375E","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"ExitButton","path":"objects/ExitButton/ExitButton.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1152.0,"y":704.0,"resourceVersion":"1.0","name":"inst_102A4F1A","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"upgradeBGM","path":"objects/upgradeBGM/upgradeBGM.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":9.0,"scaleY":7.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1184.0,"y":32.0,"resourceVersion":"1.0","name":"inst_483FE8B6","tags":[],"resourceType":"GMRInstance",},
@@ -32,8 +30,6 @@
     {"name":"inst_483FE8B6","path":"rooms/UpgradeShop/UpgradeShop.yy",},
     {"name":"inst_7AA3375E","path":"rooms/UpgradeShop/UpgradeShop.yy",},
     {"name":"inst_102A4F1A","path":"rooms/UpgradeShop/UpgradeShop.yy",},
-    {"name":"inst_188D81BE","path":"rooms/UpgradeShop/UpgradeShop.yy",},
-    {"name":"inst_1C644088","path":"rooms/UpgradeShop/UpgradeShop.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,

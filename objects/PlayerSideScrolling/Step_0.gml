@@ -11,27 +11,9 @@ if (keyboard_check(ord("A")) && x > 0) x -= 5;
 image_angle = point_direction(x,y,x,y);
 
 ShootTimer--;
-ShootTimer2--;
-
-/// @description Insert description here
-// You can write your code in this editor
-if(mouse_check_button_pressed(mb_right) && global.Cannon == 1 && ShootTimer2 <= 0)
-{
-	instance_create_layer(x,y - 60,layer,Player_Projectile_Explosion);
-	ShootTimer2 = 240;
-}
-
-if(mouse_check_button_pressed(mb_left) && ShootTimer <= 0 && global.gunLvl == 1)
-{
-	instance_create_layer(x,y - 10,layer,Player_Projectile_SideScrolling);
+if (mouse_check_button_pressed(mb_left) && ShootTimer <= 0) {
 	instance_create_layer(x,y,layer,Player_Projectile_SideScrolling);
-	instance_create_layer(x,y + 10,layer,Player_Projectile_SideScrolling);
-	ShootTimer = 15;
-}
-
-else if (mouse_check_button_pressed(mb_left) && ShootTimer <= 0) {
-	instance_create_layer(x,y,layer,Player_Projectile_SideScrolling);
-	ShootTimer = 15;
+	ShootTimer = 15;	
 }
 
 if (Health <= 0){
