@@ -28,11 +28,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Level Select - 1",
-    "path": "folders/Objects/Level Select Stages/Level Select - 1.yy",
+    "name": "Level Select - 2",
+    "path": "folders/Objects/Level Select Stages/Level Select - 2.yy",
   },
   "resourceVersion": "1.0",
-  "name": "World1_Stage1",
+  "name": "World2_Stage1",
   "tags": [],
   "resourceType": "GMObject",
 }

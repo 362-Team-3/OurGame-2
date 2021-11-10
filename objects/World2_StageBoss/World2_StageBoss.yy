@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "SpriteS3Lvl1",
-    "path": "sprites/SpriteS3Lvl1/SpriteS3Lvl1.yy",
+    "name": "SpriteS3BossLvl",
+    "path": "sprites/SpriteS3BossLvl/SpriteS3BossLvl.yy",
   },
   "solid": false,
   "visible": true,
@@ -28,11 +28,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Level Select - 1",
-    "path": "folders/Objects/Level Select Stages/Level Select - 1.yy",
+    "name": "Level Select - 2",
+    "path": "folders/Objects/Level Select Stages/Level Select - 2.yy",
   },
   "resourceVersion": "1.0",
-  "name": "World1_Stage1",
+  "name": "World2_StageBoss",
   "tags": [],
   "resourceType": "GMObject",
 }
