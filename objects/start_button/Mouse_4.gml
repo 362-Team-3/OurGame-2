@@ -20,7 +20,7 @@ if (lvl_5_button.selected) {
 }
 
 if (lvl_6_button.selected) {
-	//room_goto()
+	room_goto(Room15)
 }
 
 if (lvl_7_button.selected) {
