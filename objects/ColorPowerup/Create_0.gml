@@ -17,4 +17,5 @@ switch(Color){
 		break;
 }
 
+audio_play_sound(Interface, 500, false);
 
