@@ -4,7 +4,7 @@ if (lvl_1_button.selected) {
 
 if (lvl_2_button.selected) {
 	audio_stop_all()
-	room_goto(TestSideScrollingLevel)
+	room_goto(S2SelectScreen)
 }
 
 if (lvl_3_button.selected) {
@@ -12,7 +12,7 @@ if (lvl_3_button.selected) {
 }
 
 if (lvl_4_button.selected) {
-	//room_goto()
+	room_goto(S4SelectScreen)
 }
 
 if (lvl_5_button.selected) {

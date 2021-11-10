@@ -23,8 +23,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Generic",
-    "path": "folders/Objects/Generic.yy",
+    "name": "Stage Select",
+    "path": "folders/Objects/Stage Select.yy",
   },
   "resourceVersion": "1.0",
   "name": "ReturnToWorldSelect",

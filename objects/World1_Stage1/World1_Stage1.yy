@@ -22,12 +22,14 @@
   "physicsShapePoints": [],
   "eventList": [
     {"isDnD":false,"eventNum":13,"eventType":5,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Level Select - 1",
-    "path": "folders/Objects/Level Select Stages/Level Select - 1.yy",
+    "name": "Stage Select - 1",
+    "path": "folders/Objects/Stage Select/Stage Select - 1.yy",
   },
   "resourceVersion": "1.0",
   "name": "World1_Stage1",
