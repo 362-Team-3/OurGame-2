@@ -1,6 +1,6 @@
 {
   "compression": 0,
-  "volume": 1.0,
+  "volume": 0.25,
   "preload": false,
   "bitRate": 128,
   "sampleRate": 44100,
@@ -10,8 +10,8 @@
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
   },
-  "soundFile": "Interface",
-  "duration": 0.0,
+  "soundFile": "Interface.mp3",
+  "duration": 1.28,
   "parent": {
     "name": "SFX",
     "path": "folders/Sounds/SFX.yy",
