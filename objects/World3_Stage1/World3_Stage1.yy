@@ -28,8 +28,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Stage Select - 3",
-    "path": "folders/Objects/Stage Select/Stage Select - 3.yy",
+    "name": "Level Select - 3",
+    "path": "folders/Objects/Level Select Stages/Level Select - 3.yy",
   },
   "resourceVersion": "1.0",
   "name": "World3_Stage1",

@@ -24,8 +24,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Stage Select",
-    "path": "folders/Objects/Stage Select.yy",
+    "name": "Level Select Stages",
+    "path": "folders/Objects/Level Select Stages.yy",
   },
   "resourceVersion": "1.0",
   "name": "TextBox_obj",
