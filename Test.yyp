@@ -21,6 +21,7 @@
     {"id":{"name":"SelectLevelButton","path":"sounds/SelectLevelButton/SelectLevelButton.yy",},"order":0,},
     {"id":{"name":"Boss1ShieldBlue","path":"objects/Boss1ShieldBlue/Boss1ShieldBlue.yy",},"order":0,},
     {"id":{"name":"TempBoss1LaserFiringGreen_Sprite","path":"sprites/TempBoss1LaserFiringGreen_Sprite/TempBoss1LaserFiringGreen_Sprite.yy",},"order":11,},
+    {"id":{"name":"Textbox","path":"objects/Textbox/Textbox.yy",},"order":3,},
     {"id":{"name":"lvl_3_button","path":"objects/lvl_3_button/lvl_3_button.yy",},"order":3,},
     {"id":{"name":"asteroidExploding","path":"sounds/asteroidExploding/asteroidExploding.yy",},"order":0,},
     {"id":{"name":"lvl7","path":"sprites/lvl7/lvl7.yy",},"order":7,},

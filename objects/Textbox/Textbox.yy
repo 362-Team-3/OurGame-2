@@ -1,8 +1,5 @@
 {
-  "spriteId": {
-    "name": "SpriteS3Lvl2",
-    "path": "sprites/SpriteS3Lvl2/SpriteS3Lvl2.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
@@ -21,18 +18,17 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":13,"eventType":5,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":8,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Level Select - 3",
-    "path": "folders/Objects/Level Select Stages/Level Select - 3.yy",
+    "name": "Level Select Stages",
+    "path": "folders/Objects/Level Select Stages.yy",
   },
   "resourceVersion": "1.0",
-  "name": "World3_Stage2",
+  "name": "Textbox",
   "tags": [],
   "resourceType": "GMObject",
 }
