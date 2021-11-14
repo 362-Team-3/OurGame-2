@@ -160,6 +160,7 @@
     {"id":{"name":"BossHealthBar","path":"objects/BossHealthBar/BossHealthBar.yy",},"order":3,},
     {"id":{"name":"EnemySpawnerRoom15","path":"objects/EnemySpawnerRoom15/EnemySpawnerRoom15.yy",},"order":4,},
     {"id":{"name":"StageSelectPlayer","path":"objects/StageSelectPlayer/StageSelectPlayer.yy",},"order":6,},
+    {"id":{"name":"Sprite97","path":"sprites/Sprite97/Sprite97.yy",},"order":38,},
     {"id":{"name":"lvl4","path":"sprites/lvl4/lvl4.yy",},"order":4,},
     {"id":{"name":"TempBoss1LaserChargingRed_Sprite","path":"sprites/TempBoss1LaserChargingRed_Sprite/TempBoss1LaserChargingRed_Sprite.yy",},"order":15,},
     {"id":{"name":"World3_Stage1","path":"objects/World3_Stage1/World3_Stage1.yy",},"order":0,},
