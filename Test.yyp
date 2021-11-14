@@ -98,6 +98,7 @@
     {"id":{"name":"level2BGM","path":"sounds/level2BGM/level2BGM.yy",},"order":2,},
     {"id":{"name":"Sprite91","path":"sprites/Sprite91/Sprite91.yy",},"order":0,},
     {"id":{"name":"LevelSelectTitle","path":"sprites/LevelSelectTitle/LevelSelectTitle.yy",},"order":2,},
+    {"id":{"name":"NebulaBackground","path":"sprites/NebulaBackground/NebulaBackground.yy",},"order":40,},
     {"id":{"name":"Player_Projectile_Explosion","path":"objects/Player_Projectile_Explosion/Player_Projectile_Explosion.yy",},"order":22,},
     {"id":{"name":"Stage1Title","path":"objects/Stage1Title/Stage1Title.yy",},"order":0,},
     {"id":{"name":"diamondguyProjectileGreen","path":"objects/diamondguyProjectileGreen/diamondguyProjectileGreen.yy",},"order":5,},
