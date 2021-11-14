@@ -14,16 +14,7 @@
   ],
   "layers": [
     {"assets":[
-        {"spriteId":{"name":"YesLevel","path":"sprites/YesLevel/YesLevel.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":0.5585495,"scaleY":0.558549464,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":0.0,"y":9.0,"resourceVersion":"1.0","name":"graphic_4D229CC8","tags":[],"resourceType":"GMRSpriteGraphic",},
-        {"spriteId":{"name":"YesAsteroid1","path":"sprites/YesAsteroid1/YesAsteroid1.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":0.722543359,"scaleY":0.641791046,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":736.0,"y":521.0,"resourceVersion":"1.0","name":"graphic_2F66075A","tags":[],"resourceType":"GMRSpriteGraphic",},
-        {"spriteId":{"name":"YesAsteroid2","path":"sprites/YesAsteroid2/YesAsteroid2.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":0.560137451,"scaleY":0.56639564,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":800.0,"y":41.0,"resourceVersion":"1.0","name":"graphic_19E244FE","tags":[],"resourceType":"GMRSpriteGraphic",},
-        {"spriteId":{"name":"YesStar","path":"sprites/YesStar/YesStar.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":0.308108121,"scaleY":0.337931037,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":800.0,"y":393.0,"resourceVersion":"1.0","name":"graphic_3C23595B","tags":[],"resourceType":"GMRSpriteGraphic",},
-        {"spriteId":{"name":"YesStar","path":"sprites/YesStar/YesStar.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":0.308108121,"scaleY":0.337931037,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1280.0,"y":457.0,"resourceVersion":"1.0","name":"graphic_432998D2","tags":[],"resourceType":"GMRSpriteGraphic",},
-        {"spriteId":{"name":"YesStar","path":"sprites/YesStar/YesStar.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":0.308108121,"scaleY":0.337931037,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":864.0,"y":265.0,"resourceVersion":"1.0","name":"graphic_2F8A02D9","tags":[],"resourceType":"GMRSpriteGraphic",},
-        {"spriteId":{"name":"YesStar","path":"sprites/YesStar/YesStar.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":0.308108121,"scaleY":0.337931037,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1184.0,"y":105.0,"resourceVersion":"1.0","name":"graphic_501869AC","tags":[],"resourceType":"GMRSpriteGraphic",},
-        {"spriteId":{"name":"YesStar","path":"sprites/YesStar/YesStar.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":0.308108121,"scaleY":0.337931037,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1216.0,"y":649.0,"resourceVersion":"1.0","name":"graphic_5EF9A722","tags":[],"resourceType":"GMRSpriteGraphic",},
-        {"spriteId":{"name":"YesStar","path":"sprites/YesStar/YesStar.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":0.308108121,"scaleY":0.337931037,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1056.0,"y":553.0,"resourceVersion":"1.0","name":"graphic_7C24C587","tags":[],"resourceType":"GMRSpriteGraphic",},
-        {"spriteId":{"name":"YesAsteroid2","path":"sprites/YesAsteroid2/YesAsteroid2.yy",},"headPosition":0.0,"rotation":-118.470047,"scaleX":0.560137451,"scaleY":0.56639564,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1280.0,"y":297.0,"resourceVersion":"1.0","name":"graphic_7C410E5C","tags":[],"resourceType":"GMRSpriteGraphic",},
+        {"spriteId":{"name":"TestSpriteS3_Lvl1","path":"sprites/TestSpriteS3_Lvl1/TestSpriteS3_Lvl1.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":8.0,"scaleY":8.0,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":32.0,"y":32.0,"resourceVersion":"1.0","name":"graphic_330C7F53_2","tags":[],"resourceType":"GMRSpriteGraphic",},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Assets_1","tags":[],"resourceType":"GMRAssetLayer",},
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"ReturnToWorldSelect","path":"objects/ReturnToWorldSelect/ReturnToWorldSelect.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1312.0,"y":0.0,"resourceVersion":"1.0","name":"inst_69D0B42_3","tags":[],"resourceType":"GMRInstance",},
@@ -58,8 +49,8 @@
     "PhysicsWorldPixToMetres": 0.1,
   },
   "parent": {
-    "name": "Stage 2",
-    "path": "folders/Rooms/Stages/Stage 2.yy",
+    "name": "Stage 3",
+    "path": "folders/Rooms/Stages/Stage 3.yy",
   },
   "resourceVersion": "1.0",
   "name": "W2Stage1",
