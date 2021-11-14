@@ -22,13 +22,13 @@ if (Health <= 0){
 
 switch(Color){
 	case "blue":
-		sprite_index = TempPlayer_Blue;
+		sprite_index = Player_Blue;
 		break;
 	case "red":
-		sprite_index = TempPlayer_Red;
+		sprite_index = Player_Red;
 		break;
 	case "green":
-		sprite_index = TempPlayer_Green;
+		sprite_index = Player_Green;
 		break;
 	default:
 		break;
