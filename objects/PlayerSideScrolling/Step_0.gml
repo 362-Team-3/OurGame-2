@@ -36,7 +36,7 @@ else if (mouse_check_button_pressed(mb_left) && ShootTimer <= 0) {
 
 if (Health <= 0){
 	audio_stop_all()
-	room_goto(Menu);
+	room_goto(LevelSelect);
 }
 
 //timer--;
