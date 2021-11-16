@@ -13,14 +13,14 @@ image_angle = point_direction(x,y,x,y);
 ShootTimer--;
 ShootTimer2--;
 
-/// @description Insert description here
-// You can write your code in this editor
+//checks for Cannon Upgrade
 if(mouse_check_button_pressed(mb_right) && global.Cannon == 1 && ShootTimer2 <= 0)
 {
 	instance_create_layer(x,y - 60,layer,Player_Projectile_Explosion);
 	ShootTimer2 = 240;
 }
 
+//Checks for Tri-Shot Upgrade
 if(mouse_check_button_pressed(mb_left) && ShootTimer <= 0 && global.gunLvl == 1)
 {
 	instance_create_layer(x,y - 10,layer,Player_Projectile_SideScrolling);
