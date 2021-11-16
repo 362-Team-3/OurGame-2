@@ -1,5 +1,8 @@
 /// @description Insert description here
 // You can write your code in this editor
-global.gunLvl = 0;
-global.Cannon = 0;
-global.pHealth = 0;
+if (selected) {
+	image_index = 1;
+}
+else {
+	image_index = 0;
+}

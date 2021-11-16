@@ -1,8 +1,14 @@
 /// @description Insert description here
 // You can write your code in this editor
-Health = 100;
+if(global.pHealth = 1)
+{
+	Health = 150;
+}
+else
+{
+	Health = 100;
+}
 maxHealth = Health;
-
 
 healthbar_width = 200;
 healthbar_height = 12;

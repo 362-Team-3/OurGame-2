@@ -6,5 +6,8 @@
 with (cannonUpgrade) {
 	selected = false;
 }
+with(healthUpgrade){
+	selected = false;
+}
 
 selected = true;

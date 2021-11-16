@@ -7,5 +7,9 @@ if (cannonUpgrade.selected) {
 if (weaponUpgrade.selected) {
 	global.gunLvl = 1;
 }
+if(healthUpgrade.selected)
+{
+	global.pHealth = 1;
+}
 
 audio_play_sound(SelectLevelButton, 500, false);
