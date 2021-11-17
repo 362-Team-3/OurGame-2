@@ -35,6 +35,7 @@
     {"id":{"name":"PlayerHealthBar","path":"sprites/PlayerHealthBar/PlayerHealthBar.yy",},"order":23,},
     {"id":{"name":"EnemyTestProjectile","path":"objects/EnemyTestProjectile/EnemyTestProjectile.yy",},"order":14,},
     {"id":{"name":"Boss1ShieldGreen","path":"objects/Boss1ShieldGreen/Boss1ShieldGreen.yy",},"order":1,},
+    {"id":{"name":"Sprite112","path":"sprites/Sprite112/Sprite112.yy",},"order":25,},
     {"id":{"name":"ReturnToWorldSelect","path":"objects/ReturnToWorldSelect/ReturnToWorldSelect.yy",},"order":5,},
     {"id":{"name":"Sweeper","path":"objects/Sweeper/Sweeper.yy",},"order":5,},
     {"id":{"name":"Divider","path":"objects/Divider/Divider.yy",},"order":6,},
