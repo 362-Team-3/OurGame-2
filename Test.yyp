@@ -44,6 +44,7 @@
     {"id":{"name":"Stage4","path":"sprites/Stage4/Stage4.yy",},"order":3,},
     {"id":{"name":"dualPlanets","path":"sprites/dualPlanets/dualPlanets.yy",},"order":1,},
     {"id":{"name":"W3Stage2","path":"rooms/W3Stage2/W3Stage2.yy",},"order":2,},
+    {"id":{"name":"PlayerHealthBar_BG","path":"sprites/PlayerHealthBar_BG/PlayerHealthBar_BG.yy",},"order":47,},
     {"id":{"name":"PlayerLaserRed_Sprite","path":"sprites/PlayerLaserRed_Sprite/PlayerLaserRed_Sprite.yy",},"order":32,},
     {"id":{"name":"Sprite98","path":"sprites/Sprite98/Sprite98.yy",},"order":39,},
     {"id":{"name":"LevelSelectBG","path":"sprites/LevelSelectBG/LevelSelectBG.yy",},"order":1,},
