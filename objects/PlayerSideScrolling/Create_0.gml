@@ -17,3 +17,8 @@ healthbar_y = ystart - 400;
 
 ShootTimer = 15;
 ShootTimer2 = 15;
+
+Color = "red";
+
+Colors = ["red",  "green", "blue"]
+ColorsIndex = 0;

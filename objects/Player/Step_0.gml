@@ -7,8 +7,13 @@ if (keyboard_check(ord("D")) && x < 1366) x += 5;
 if (keyboard_check(ord("A")) && x > 0) x -= 5;
 
 
+if (!sideScrolling){
+	image_angle = point_direction(x,y,mouse_x,mouse_y);
+}
+else {
+	image_angle = 0;	
+}
 
-image_angle = point_direction(x,y,mouse_x,mouse_y);
 
 ShootTimer--;
 if (mouse_check_button_pressed(mb_left) && ShootTimer <= 0) {

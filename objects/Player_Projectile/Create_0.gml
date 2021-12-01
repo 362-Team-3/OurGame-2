@@ -20,6 +20,12 @@ switch(Color){
 image_xscale = 0.5;
 image_yscale = 1;
 
-image_angle = point_direction(x,y,mouse_x,mouse_y);
+if (!Player.sideScrolling){
+	image_angle = point_direction(x,y,mouse_x,mouse_y);
+}
+else {
+	image_angle = Player.image_angle;	
+}
+
 motion_set(image_angle,4);
 audio_play_sound(SelectLevelButton, 500, false);

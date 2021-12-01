@@ -5,3 +5,7 @@ if(Health <= 0){
 	instance_destroy(b);
 	instance_destroy();
 }
+
+speed = -2;
+a.speed = speed;
+b.speed = speed;
