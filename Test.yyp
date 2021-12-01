@@ -142,6 +142,7 @@
     {"id":{"name":"oTitle","path":"objects/oTitle/oTitle.yy",},"order":1,},
     {"id":{"name":"SpriteS3BossLvl","path":"sprites/SpriteS3BossLvl/SpriteS3BossLvl.yy",},"order":3,},
     {"id":{"name":"EnemyProjectile_White","path":"objects/EnemyProjectile_White/EnemyProjectile_White.yy",},"order":2,},
+    {"id":{"name":"PossibleEnemy","path":"sprites/PossibleEnemy/PossibleEnemy.yy",},"order":3,},
     {"id":{"name":"lvl5","path":"sprites/lvl5/lvl5.yy",},"order":5,},
     {"id":{"name":"Sprite90","path":"sprites/Sprite90/Sprite90.yy",},"order":37,},
     {"id":{"name":"ThreeShotProjectileGreen","path":"objects/ThreeShotProjectileGreen/ThreeShotProjectileGreen.yy",},"order":5,},
