@@ -35,11 +35,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "AsteroidBoss",
+    "path": "folders/Objects/AsteroidBoss.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Player_Projectile",
+  "name": "Player_Projectile_Ast_Boss",
   "tags": [],
   "resourceType": "GMObject",
 }

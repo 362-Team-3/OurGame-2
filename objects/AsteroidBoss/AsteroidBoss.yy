@@ -1,5 +1,8 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "asteroidBoss",
+    "path": "sprites/asteroidBoss/asteroidBoss.yy",
+  },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
@@ -19,17 +22,16 @@
   "physicsShapePoints": [],
   "eventList": [
     {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":64,"eventType":8,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Menu Objects",
-    "path": "folders/Objects/Miscellaneous Objects/Menu Objects.yy",
+    "name": "AsteroidBoss",
+    "path": "folders/Objects/AsteroidBoss.yy",
   },
   "resourceVersion": "1.0",
-  "name": "oMenu",
+  "name": "AsteroidBoss",
   "tags": [],
   "resourceType": "GMObject",
 }

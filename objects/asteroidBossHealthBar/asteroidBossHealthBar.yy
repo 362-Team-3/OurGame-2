@@ -1,5 +1,8 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "TempBossHealthBar",
+    "path": "sprites/TempBossHealthBar/TempBossHealthBar.yy",
+  },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
@@ -17,17 +20,15 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":8,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-  ],
+  "eventList": [],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Menu Objects",
-    "path": "folders/Objects/Miscellaneous Objects/Menu Objects.yy",
+    "name": "AsteroidBoss",
+    "path": "folders/Objects/AsteroidBoss.yy",
   },
   "resourceVersion": "1.0",
-  "name": "oTitle",
+  "name": "asteroidBossHealthBar",
   "tags": [],
   "resourceType": "GMObject",
 }

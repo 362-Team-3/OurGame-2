@@ -24,7 +24,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "Menu Objects",
-    "path": "folders/Objects/Menu Objects.yy",
+    "path": "folders/Objects/Miscellaneous Objects/Menu Objects.yy",
   },
   "resourceVersion": "1.0",
   "name": "oInitialize",

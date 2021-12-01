@@ -24,7 +24,7 @@ if (lvl_6_button.selected) {
 }
 
 if (lvl_7_button.selected) {
-	//room_goto()
+	room_goto(asteroidRoom)
 }
 
 if (lvl_8_button.selected) {
