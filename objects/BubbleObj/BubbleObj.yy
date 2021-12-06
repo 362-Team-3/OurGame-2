@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "FishSprite",
-    "path": "sprites/FishSprite/FishSprite.yy",
+    "name": "BubbleSprite",
+    "path": "sprites/BubbleSprite/BubbleSprite.yy",
   },
   "solid": false,
   "visible": true,
@@ -21,12 +21,12 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"Player_Projectile","path":"objects/Player_Projectile/Player_Projectile.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"Player_Projectile_SideScrolling","path":"objects/Player_Projectile_SideScrolling/Player_Projectile_SideScrolling.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"Player","path":"objects/Player/Player.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"PlayerSideScrolling","path":"objects/PlayerSideScrolling/PlayerSideScrolling.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"Player_Projectile_Explosion","path":"objects/Player_Projectile_Explosion/Player_Projectile_Explosion.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"Player_Projectile_SideScrolling","path":"objects/Player_Projectile_SideScrolling/Player_Projectile_SideScrolling.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -35,7 +35,7 @@
     "path": "folders/Objects/MachsWorld.yy",
   },
   "resourceVersion": "1.0",
-  "name": "FishObj",
+  "name": "BubbleObj",
   "tags": [],
   "resourceType": "GMObject",
 }

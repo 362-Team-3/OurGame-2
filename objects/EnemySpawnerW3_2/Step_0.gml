@@ -9,6 +9,14 @@ if (Time mod 180 == 0) {
 }
 
 if (Time mod 300 == 0) {
+	for (var i = 0; i < random_range(2, 20); i += 1)
+	{
+		instance_create_layer(1500, random_range(0, 768), layer, FishObj)
+	}
+	for (var i = 0; i < random_range(1, 4); i += 1)
+	{
+		instance_create_layer(1500, random_range(0, 768), layer, BigFishObj)
+	}
 	
 	instance_create_layer(1500, random_range(0, 768), layer, asteroidObj)
 	instance_create_layer(1500, random_range(0, 768), layer, asteroidObj)
