@@ -14,7 +14,10 @@
   ],
   "layers": [
     {"instances":[
+<<<<<<< Updated upstream
         {"properties":[],"isDnd":false,"objectId":{"name":"PlayerSideScrolling","path":"objects/PlayerSideScrolling/PlayerSideScrolling.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":256.0,"y":288.0,"resourceVersion":"1.0","name":"inst_1AD11B51","tags":[],"resourceType":"GMRInstance",},
+=======
+>>>>>>> Stashed changes
         {"properties":[],"isDnd":false,"objectId":{"name":"EnemyThreeShot","path":"objects/EnemyThreeShot/EnemyThreeShot.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1088.0,"y":160.0,"resourceVersion":"1.0","name":"inst_3CD38BF6","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"Pause","path":"objects/Pause/Pause.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":5.0,"scaleY":5.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1248.0,"y":32.0,"resourceVersion":"1.0","name":"inst_3EAB7F7E","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"oTimer","path":"objects/oTimer/oTimer.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":9.0,"scaleY":7.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1088.0,"y":0.0,"resourceVersion":"1.0","name":"inst_273B6222","tags":[],"resourceType":"GMRInstance",},
@@ -29,7 +32,6 @@
   "creationCodeFile": "",
   "inheritCode": false,
   "instanceCreationOrder": [
-    {"name":"inst_1AD11B51","path":"rooms/Room14/Room14.yy",},
     {"name":"inst_3CD38BF6","path":"rooms/Room14/Room14.yy",},
     {"name":"inst_3EAB7F7E","path":"rooms/Room14/Room14.yy",},
     {"name":"inst_273B6222","path":"rooms/Room14/Room14.yy",},
