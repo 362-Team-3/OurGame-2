@@ -1,6 +1,6 @@
 {
   "compression": 0,
-  "volume": 0.15,
+  "volume": 0.2,
   "preload": false,
   "bitRate": 128,
   "sampleRate": 44100,
@@ -10,14 +10,14 @@
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
   },
-  "soundFile": "asteroidExploding.mp3",
-  "duration": 7.68,
+  "soundFile": "enemyLaser.wav",
+  "duration": 0.699667,
   "parent": {
-    "name": "SFX",
-    "path": "folders/Sounds/SFX.yy",
+    "name": "Attack",
+    "path": "folders/Sounds/Attack.yy",
   },
   "resourceVersion": "1.0",
-  "name": "asteroidExploding",
+  "name": "enemyLaser",
   "tags": [],
   "resourceType": "GMSound",
 }

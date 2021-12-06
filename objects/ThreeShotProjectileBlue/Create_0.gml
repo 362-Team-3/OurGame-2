@@ -7,3 +7,4 @@ image_angle = point_direction(x,y,PlayerSideScrolling.x,PlayerSideScrolling.y);
 
 image_xscale = 0.8;
 image_yscale = 0.8;
+audio_play_sound(enemyLaser, 500, false);

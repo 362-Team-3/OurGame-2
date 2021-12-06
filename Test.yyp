@@ -43,6 +43,7 @@
     {"id":{"name":"Attack","path":"sounds/Attack/Attack.yy",},"order":0,},
     {"id":{"name":"Stage4","path":"sprites/Stage4/Stage4.yy",},"order":3,},
     {"id":{"name":"dualPlanets","path":"sprites/dualPlanets/dualPlanets.yy",},"order":1,},
+    {"id":{"name":"enemyLaser","path":"sounds/enemyLaser/enemyLaser.yy",},"order":1,},
     {"id":{"name":"W3Stage2","path":"rooms/W3Stage2/W3Stage2.yy",},"order":2,},
     {"id":{"name":"PlayerHealthBar_BG","path":"sprites/PlayerHealthBar_BG/PlayerHealthBar_BG.yy",},"order":47,},
     {"id":{"name":"PlayerLaserRed_Sprite","path":"sprites/PlayerLaserRed_Sprite/PlayerLaserRed_Sprite.yy",},"order":32,},
@@ -343,7 +344,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2.3.5.589",
+    "IDEVersion": "2.3.4.580",
   },
   "resourceVersion": "1.4",
   "name": "Test",

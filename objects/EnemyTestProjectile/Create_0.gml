@@ -9,3 +9,5 @@ image_xscale = 0.3;
 image_yscale = 0.3;
 
 timer = 0;
+
+audio_play_sound(enemyLaser, 500, false);
