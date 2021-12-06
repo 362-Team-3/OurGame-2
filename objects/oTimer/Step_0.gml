@@ -21,6 +21,7 @@ if(counter == 0)
 	//ADD CODE TO SYMBOLIZE STAGE HAS BEEN COMPLETE
 	
 	counter = -1;
+	instance_destroy(EnemySpawner)
 }
 
 
