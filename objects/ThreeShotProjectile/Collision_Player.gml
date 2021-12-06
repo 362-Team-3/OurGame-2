@@ -1,7 +1,3 @@
-with(other) {
-	if (Color != "red") Health -= 10;
-	else {Health += 5;}
-}
-
+with(other) Health -= 10;
 
 instance_destroy();

@@ -8,7 +8,7 @@ if (keyboard_check(ord("A")) && x > 0) x -= 5;
 
 
 
-image_angle = point_direction(x,y,x,y); // what is this?
+image_angle = point_direction(x,y,x,y);
 
 ShootTimer--;
 ShootTimer2--;
@@ -35,7 +35,7 @@ else if (mouse_check_button_pressed(mb_left) && ShootTimer <= 0) {
 }
 
 if (Health <= 0){
-	audio_stop_all();
+	audio_stop_all()
 	room_goto(LevelSelect);
 }
 
