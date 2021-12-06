@@ -2,6 +2,7 @@
 // You can write your code in this editor
 Health = 100;
 ShootTimer = 15;
+ShootTimer2 = 15;
 Color = "white";
 
 Colors = ["red",  "green", "blue"]
