@@ -59,6 +59,7 @@
     {"id":{"name":"W2Stage1","path":"rooms/W2Stage1/W2Stage1.yy",},"order":3,},
     {"id":{"name":"back_button","path":"objects/back_button/back_button.yy",},"order":0,},
     {"id":{"name":"textboxSprite","path":"sprites/textboxSprite/textboxSprite.yy",},"order":1,},
+    {"id":{"name":"planetAsset","path":"sprites/planetAsset/planetAsset.yy",},"order":52,},
     {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},"order":11,},
     {"id":{"name":"lvl6","path":"sprites/lvl6/lvl6.yy",},"order":6,},
     {"id":{"name":"TempColorPowerupRed_Sprite","path":"sprites/TempColorPowerupRed_Sprite/TempColorPowerupRed_Sprite.yy",},"order":9,},
@@ -348,7 +349,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2.3.4.580",
+    "IDEVersion": "2.3.5.589",
   },
   "resourceVersion": "1.4",
   "name": "Test",
