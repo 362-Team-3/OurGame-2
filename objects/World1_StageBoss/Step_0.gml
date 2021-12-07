@@ -4,7 +4,7 @@ if(place_meeting(x,y,StageSelectPlayer))
 {
 	if (textBoxLevel == noone)
 	{
-		textBoxLevel = instance_create_layer(x,y, "Textbox", TextBox_obj);
+		textBoxLevel = instance_create_layer(480,352, "Textbox", TextBox_obj);
 		textBoxLevel.text = "World 1 - Boss";
 	}
 }
