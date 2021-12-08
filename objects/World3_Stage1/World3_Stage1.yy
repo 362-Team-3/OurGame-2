@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "SpriteS3Lvl1",
-    "path": "sprites/SpriteS3Lvl1/SpriteS3Lvl1.yy",
+    "name": "Sprite_StageTemplate",
+    "path": "sprites/Sprite_StageTemplate/Sprite_StageTemplate.yy",
   },
   "solid": false,
   "visible": true,
