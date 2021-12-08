@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "SpriteS3Lvl2",
-    "path": "sprites/SpriteS3Lvl2/SpriteS3Lvl2.yy",
+    "name": "planetGreen",
+    "path": "sprites/planetGreen/planetGreen.yy",
   },
   "solid": false,
   "visible": true,

@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "SpriteS3BossLvl",
-    "path": "sprites/SpriteS3BossLvl/SpriteS3BossLvl.yy",
+    "name": "planetAsset",
+    "path": "sprites/planetAsset/planetAsset.yy",
   },
   "solid": false,
   "visible": true,
