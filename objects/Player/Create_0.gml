@@ -3,7 +3,7 @@
 Health = 100;
 ShootTimer = 15;
 ShootTimer2 = 15;
-Color = "white";
+Color = "red";
 
 Colors = ["red",  "green", "blue"]
 ColorsIndex = 0;
