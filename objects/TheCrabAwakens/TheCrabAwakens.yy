@@ -1,5 +1,8 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "CrabAwakensSprite",
+    "path": "sprites/CrabAwakensSprite/CrabAwakensSprite.yy",
+  },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
@@ -25,7 +28,7 @@
     "path": "folders/Objects/MachsWorld.yy",
   },
   "resourceVersion": "1.0",
-  "name": "TheCrab",
+  "name": "TheCrabAwakens",
   "tags": [],
   "resourceType": "GMObject",
 }
