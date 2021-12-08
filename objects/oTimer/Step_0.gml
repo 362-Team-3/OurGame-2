@@ -22,6 +22,15 @@ if(counter == 0)
 	
 	counter = -1;
 	instance_destroy(EnemySpawner)
+	
+	if(W3Stage1)
+	{
+		instance_destroy(EnemySpawnerW3_1)
+	}
+	if(W3Stage2)
+	{
+		instance_destroy(EnemySpawnerW3_2)
+	}
 }
 
 
